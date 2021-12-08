@@ -1,0 +1,16 @@
+
+[
+	{
+		"package": "agridat"
+		"url": "https://github.com/kwstat/agridat/"
+	},
+
+	{
+		"package": "desplot"
+		"url": "https://github.com/kwstat/desplot"
+	},
+	{
+		"package": "rnassqs"
+		"url": "https://github.com/ropensci/rnassqs"
+	},
+]
