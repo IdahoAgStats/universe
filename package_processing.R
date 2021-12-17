@@ -5,7 +5,7 @@ packages <- read.csv("packages.txt")
 
 packages$github <- ifelse(str_detect(packages$url, "github.com/"),
                                packages$url, 
-                          file.path("https://github.com/cran", packages$package))
+                          file.path("http://github.com/cran", packages$package))
 
 write.csv(packages, "packages.csv")
 
