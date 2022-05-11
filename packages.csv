@@ -1,65 +1,65 @@
-"","package","url","github"
-"1","AGHmatrix"," https://CRAN.R-project.org/package=AGHmatrix","http://github.com/cran/AGHmatrix"
-"2","agridat"," https://CRAN.R-project.org/package=agridat ","http://github.com/cran/agridat"
-"3","agriTutorial"," https://CRAN.R-project.org/package=agriTutorial","http://github.com/cran/agriTutorial"
-"4","agroBioData"," https://github.com/OnofriAndreaPG/agriCensData"," https://github.com/OnofriAndreaPG/agriCensData"
-"5","apsimx"," https://CRAN.R-project.org/package=apsimx ","http://github.com/cran/apsimx"
-"6","aqp"," https://CRAN.R-project.org/package=aqp ","http://github.com/cran/aqp"
-"7","asremlPlus"," https://CRAN.R-project.org/package=asremlPlus ","http://github.com/cran/asremlPlus"
-"8","bayesammi"," https://CRAN.R-project.org/package=bayesammi ","http://github.com/cran/bayesammi"
-"9","binnednp"," https://CRAN.R-project.org/package=binnednp","http://github.com/cran/binnednp"
-"10","BGLR"," https://CRAN.R-project.org/package=BGLR","http://github.com/cran/BGLR"
-"11","breedR"," https://github.com/famuvie/breedR"," https://github.com/famuvie/breedR"
-"12","cdlTools","  https://CRAN.R-project.org/package=cdlTools","http://github.com/cran/cdlTools"
-"13","CropScapeR"," https://CRAN.R-project.org/package=CropScapeR ","http://github.com/cran/CropScapeR"
-"14","desplot"," https://CRAN.R-project.org/package=desplot ","http://github.com/cran/desplot"
-"15","drc"," https://CRAN.R-project.org/package=drc ","http://github.com/cran/drc"
-"16","DSSAT"," https://CRAN.R-project.org/package=DSSAT ","http://github.com/cran/DSSAT"
-"17","emmeans"," https://CRAN.R-project.org/package=emmeans","http://github.com/cran/emmeans"
-"18","EnvRtype"," https://github.com/allogamous/EnvRtype"," https://github.com/allogamous/EnvRtype"
-"19","epifitter"," https://CRAN.R-project.org/package=epifitter","http://github.com/cran/epifitter"
-"20","epiphy"," https://CRAN.R-project.org/package=epiphy ","http://github.com/cran/epiphy"
-"21","fabio"," https://github.com/fineprint-global/fabio"," https://github.com/fineprint-global/fabio"
-"22","FedData"," https://CRAN.R-project.org/package=FedData","http://github.com/cran/FedData"
-"23","fertplan"," https://github.com/mbask/fertplan"," https://github.com/mbask/fertplan"
-"24","ggfertilizer"," https://github.com/wenlong-liu/ggfertilizer"," https://github.com/wenlong-liu/ggfertilizer"
-"25","gge"," https://CRAN.R-project.org/package=gge ","http://github.com/cran/gge"
-"26","hagis"," https://CRAN.R-project.org/package=hagis","http://github.com/cran/hagis"
-"27","hnp"," https://cran.r-project.org/package=hnp ","http://github.com/cran/hnp"
-"28","IBCF.MTME"," https://CRAN.R-project.org/package=IBCF.MTME","http://github.com/cran/IBCF.MTME"
-"29","LinkageMapView"," https://CRAN.R-project.org/package=LinkageMapView ","http://github.com/cran/LinkageMapView"
-"30","lme4"," https://CRAN.R-project.org/package=lme4","http://github.com/cran/lme4"
-"31","lme4gs"," https://github.com/perpdgo/lme4GS"," https://github.com/perpdgo/lme4GS"
-"32","lme4qtl"," https://github.com/variani/lme4qtl"," https://github.com/variani/lme4qtl"
-"33","mappoly"," https://CRAN.R-project.org/package=mappoly ","http://github.com/cran/mappoly"
-"34","MapRtools"," https://github.com/jendelman/MapRtools"," https://github.com/jendelman/MapRtools"
-"35","MCMCglmm"," https://CRAN.R-project.org/package=MCMCglmm","http://github.com/cran/MCMCglmm"
-"36","MegaLMM"," https://github.com/deruncie/MegaLMM/"," https://github.com/deruncie/MegaLMM/"
-"37","nlme"," https://CRAN.R-project.org/package=nlme","http://github.com/cran/nlme"
-"38","nlraa"," https://cran.r-project.org/package=nlraa","http://github.com/cran/nlraa"
-"39","pedigreemm"," https://CRAN.R-project.org/package=pedigreemm","http://github.com/cran/pedigreemm"
-"40","polymapR"," https://CRAN.R-project.org/package=polymapR","http://github.com/cran/polymapR"
-"41","polyqtlR"," https://CRAN.R-project.org/package=polyqtlR ","http://github.com/cran/polyqtlR"
-"42","poppr"," https://cran.r-project.org/package=poppr","http://github.com/cran/poppr"
-"43","PROSPER"," https://CRAN.R-project.org/package=PROSPER ","http://github.com/cran/PROSPER"
-"44","qgtools"," https://CRAN.R-project.org/package=qgtools","http://github.com/cran/qgtools"
-"45","qtl"," https://CRAN.R-project.org/package=qtl","http://github.com/cran/qtl"
-"46","qtlpoly"," https://CRAN.R-project.org/package=qtlpoly","http://github.com/cran/qtlpoly"
-"47","rapsimng"," https://CRAN.R-project.org/package=rapsimng","http://github.com/cran/rapsimng"
-"48","rarms"," https://CRAN.R-project.org/package=rarms ","http://github.com/cran/rarms"
-"49","rMVP"," https://CRAN.R-project.org/package=rMVP","http://github.com/cran/rMVP"
-"50","rnassqs"," https://CRAN.R-project.org/package=rnassqs ","http://github.com/cran/rnassqs"
-"51","rnoaa"," https://CRAN.R-project.org/package=rnoaa ","http://github.com/cran/rnoaa"
-"52","rrBLUP"," https://CRAN.R-project.org/package=rrBLUP","http://github.com/cran/rrBLUP"
-"53","rusda","  https://CRAN.R-project.org/package=rusda","http://github.com/cran/rusda"
-"54","sharpshootR"," https://CRAN.R-project.org/package=sharpshootR","http://github.com/cran/sharpshootR"
-"55","simplePHENOTYPES"," https://github.com/samuelbfernandes/simplePHENOTYPES"," https://github.com/samuelbfernandes/simplePHENOTYPES"
-"56","sommer"," https://CRAN.R-project.org/package=sommer","http://github.com/cran/sommer"
-"57","soilDB"," https://CRAN.R-project.org/package=soilDB","http://github.com/cran/soilDB"
-"58","SoilTaxonomy"," https://CRAN.R-project.org/package=SoilTaxonomy","http://github.com/cran/SoilTaxonomy"
-"59","soyNAM"," https://CRAN.R-project.org/package=SoyNAM ","http://github.com/cran/soyNAM"
-"60","statgenGWAS"," https://CRAN.R-project.org/package=statgenGWAS","http://github.com/cran/statgenGWAS"
-"61","statgenGxE"," https://CRAN.R-project.org/package=statgenGxE ","http://github.com/cran/statgenGxE"
-"62","statgenSTA"," https://CRAN.R-project.org/package=statgenSTA","http://github.com/cran/statgenSTA"
-"63","tidyUSDA"," https://CRAN.R-project.org/package=tidyUSDA","http://github.com/cran/tidyUSDA"
-"64","usdamrp"," https://CRAN.R-project.org/package=usdampr","http://github.com/cran/usdamrp"
+package,github,url,include,notes
+AGHmatrix,https://github.com/rramadeu/AGHmatrix,https://github.com/rramadeu/AGHmatrix,yes,
+agridat,https://github.com/kwstat/agridat/,https://kwstat.github.io/agridat/,yes,
+agriTutorial,https://github.com/myaseen208/agriTutorial,https://myaseen208.com/agriTutorial/index.html,yes,
+agroCensData, https://github.com/OnofriAndreaPG/agriCensData,https://onofriandreapg.github.io/agriCensData/,yes,
+apsimx,https://github.com/femiguez/apsimx,https://femiguez.github.io/apsimx-docs/,yes,
+aqp,https://github.com/ncss-tech/aqp,http://ncss-tech.github.io/aqp/,yes,
+asremlPlus,https://github.com/briencj/asremlPlus,https://briencj.github.io/asremlPlus/,yes,
+bayesammi,https://github.com/myaseen208/bayesammi,https://myaseen208.com/bayesammi/,yes,
+binnednp,,,no,not on CRAN or github or anywhere I can find
+BGLR,https://github.com/gdlc/BGLR-R,https://github.com/gdlc/BGLR-R,yes,
+breedR, https://github.com/famuvie/breedR, https://github.com/famuvie/breedR,yes,
+cdlTools,https://github.com/jlisic/cdlTools,https://github.com/jlisic/cdlTools,yes,
+CropScapeR,https://github.com/cbw1243/CropScapeR,https://github.com/cbw1243/CropScapeR,yes,
+desplot,https://github.com/kwstat/desplot,https://kwstat.github.io/desplot/,yes,
+drc,http://github.com/cran/drc, https://CRAN.R-project.org/package=drc ,,
+DSSAT,https://github.com/palderman/DSSAT,https://github.com/palderman/DSSAT,,
+emmeans,http://github.com/cran/emmeans, https://CRAN.R-project.org/package=emmeans,,
+EnvRtype, https://github.com/allogamous/EnvRtype, https://github.com/allogamous/EnvRtype,,
+epifitter,http://github.com/cran/epifitter, https://CRAN.R-project.org/package=epifitter,,
+epiphy,http://github.com/cran/epiphy, https://CRAN.R-project.org/package=epiphy ,,
+fabio, https://github.com/fineprint-global/fabio, https://github.com/fineprint-global/fabio,,
+FedData,http://github.com/cran/FedData, https://CRAN.R-project.org/package=FedData,,
+fertplan, https://github.com/mbask/fertplan, https://github.com/mbask/fertplan,,
+ggfertilizer, https://github.com/wenlong-liu/ggfertilizer, https://github.com/wenlong-liu/ggfertilizer,,
+gge,http://github.com/cran/gge, https://CRAN.R-project.org/package=gge ,,
+hagis,http://github.com/cran/hagis, https://CRAN.R-project.org/package=hagis,,
+hnp,http://github.com/cran/hnp, https://cran.r-project.org/package=hnp ,,
+IBCF.MTME,http://github.com/cran/IBCF.MTME, https://CRAN.R-project.org/package=IBCF.MTME,,
+LinkageMapView,http://github.com/cran/LinkageMapView, https://CRAN.R-project.org/package=LinkageMapView ,,
+lme4,http://github.com/cran/lme4, https://CRAN.R-project.org/package=lme4,,
+lme4gs, https://github.com/perpdgo/lme4GS, https://github.com/perpdgo/lme4GS,,
+lme4qtl, https://github.com/variani/lme4qtl, https://github.com/variani/lme4qtl,,
+mappoly,http://github.com/cran/mappoly, https://CRAN.R-project.org/package=mappoly ,,
+MapRtools, https://github.com/jendelman/MapRtools, https://github.com/jendelman/MapRtools,,
+MCMCglmm,http://github.com/cran/MCMCglmm, https://CRAN.R-project.org/package=MCMCglmm,,
+MegaLMM, https://github.com/deruncie/MegaLMM/, https://github.com/deruncie/MegaLMM/,,
+nlme,http://github.com/cran/nlme, https://CRAN.R-project.org/package=nlme,,
+nlraa,http://github.com/cran/nlraa, https://cran.r-project.org/package=nlraa,,
+pedigreemm,http://github.com/cran/pedigreemm, https://CRAN.R-project.org/package=pedigreemm,,
+polymapR,http://github.com/cran/polymapR, https://CRAN.R-project.org/package=polymapR,,
+polyqtlR,http://github.com/cran/polyqtlR, https://CRAN.R-project.org/package=polyqtlR ,,
+poppr,http://github.com/cran/poppr, https://cran.r-project.org/package=poppr,,
+PROSPER,http://github.com/cran/PROSPER, https://CRAN.R-project.org/package=PROSPER ,,
+qgtools,http://github.com/cran/qgtools, https://CRAN.R-project.org/package=qgtools,,
+qtl,http://github.com/cran/qtl, https://CRAN.R-project.org/package=qtl,,
+qtlpoly,http://github.com/cran/qtlpoly, https://CRAN.R-project.org/package=qtlpoly,,
+rapsimng,http://github.com/cran/rapsimng, https://CRAN.R-project.org/package=rapsimng,,
+rarms,http://github.com/cran/rarms, https://CRAN.R-project.org/package=rarms ,,
+rMVP,http://github.com/cran/rMVP, https://CRAN.R-project.org/package=rMVP,,
+rnassqs,http://github.com/cran/rnassqs, https://CRAN.R-project.org/package=rnassqs ,,
+rnoaa,http://github.com/cran/rnoaa, https://CRAN.R-project.org/package=rnoaa ,,
+rrBLUP,http://github.com/cran/rrBLUP, https://CRAN.R-project.org/package=rrBLUP,,
+rusda,http://github.com/cran/rusda,  https://CRAN.R-project.org/package=rusda,,
+sharpshootR,http://github.com/cran/sharpshootR, https://CRAN.R-project.org/package=sharpshootR,,
+simplePHENOTYPES, https://github.com/samuelbfernandes/simplePHENOTYPES, https://github.com/samuelbfernandes/simplePHENOTYPES,,
+sommer,http://github.com/cran/sommer, https://CRAN.R-project.org/package=sommer,,
+soilDB,http://github.com/cran/soilDB, https://CRAN.R-project.org/package=soilDB,,
+SoilTaxonomy,http://github.com/cran/SoilTaxonomy, https://CRAN.R-project.org/package=SoilTaxonomy,,
+soyNAM,http://github.com/cran/soyNAM, https://CRAN.R-project.org/package=SoyNAM ,,
+statgenGWAS,http://github.com/cran/statgenGWAS, https://CRAN.R-project.org/package=statgenGWAS,,
+statgenGxE,http://github.com/cran/statgenGxE, https://CRAN.R-project.org/package=statgenGxE ,,
+statgenSTA,http://github.com/cran/statgenSTA, https://CRAN.R-project.org/package=statgenSTA,,
+tidyUSDA,http://github.com/cran/tidyUSDA, https://CRAN.R-project.org/package=tidyUSDA,,
+usdamrp,http://github.com/cran/usdamrp, https://CRAN.R-project.org/package=usdampr,,
