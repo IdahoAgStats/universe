@@ -1,18 +1,10 @@
 
-library(stringr); library(jsonlite)
+library(jsonlite); library(dplyr)
 
-packages <- read.csv("packages.txt")
-
-packages$github <- ifelse(str_detect(packages$url, "github.com/"),
-                               packages$url, 
-                          file.path("http://github.com/cran", packages$package))
-
-write.csv(packages, "packages.csv")
-
-packages2 <- packages[,-2]
-colnames(packages2)[2] <- "url"
+packages <- read.csv("packages.csv") %>% filter(include == "yes") %>% 
+  select(package, github) %>% rename(url = "github")
 
 #package_json <- toJSON(packages)
                           
-write_json(packages2, "packages.json", pretty = TRUE)
+write_json(packages, "packages.json", pretty = TRUE)
 
