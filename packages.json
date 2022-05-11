@@ -13,7 +13,7 @@
   },
   {
     "package": "agroCensData",
-    "url": " https://github.com/OnofriAndreaPG/agriCensData"
+    "url": "https://github.com/OnofriAndreaPG/agriCensData"
   },
   {
     "package": "apsimx",
@@ -37,7 +37,7 @@
   },
   {
     "package": "breedR",
-    "url": " https://github.com/famuvie/breedR"
+    "url": "https://github.com/famuvie/breedR"
   },
   {
     "package": "cdlTools",
@@ -50,5 +50,29 @@
   {
     "package": "desplot",
     "url": "https://github.com/kwstat/desplot"
+  },
+  {
+    "package": "drc",
+    "url": "https://github.com/DoseResponse/drc"
+  },
+  {
+    "package": "DSSAT",
+    "url": "https://github.com/palderman/DSSAT"
+  },
+  {
+    "package": "emmeans",
+    "url": "https://github.com/rvlenth/emmeans"
+  },
+  {
+    "package": "EnvRtype",
+    "url": "https://github.com/allogamous/EnvRtype"
+  },
+  {
+    "package": "epifitter",
+    "url": "https://github.com/AlvesKS/epifitter"
+  },
+  {
+    "package": "epiphy",
+    "url": "https://github.com/chgigot/epiphy"
   }
 ]
