@@ -80,3 +80,6 @@ statgenMPP,https://github.com/Biometris/statgenMPP,https://biometris.github.io/s
 statgenSTA,https://github.com/Biometris/statgenSTA,https://biometris.github.io/statgenSTA/,,TRUE,
 tidyUSDA,https://github.com/bradlindblad/tidyUSDA/,https://bradlindblad.github.io/tidyUSDA/,,TRUE,
 usdampr,https://github.com/cbw1243/usdampr, https://CRAN.R-project.org/package=usdampr,,TRUE,
+agricolae,https://github.com/myaseen208/agricolae,https://myaseen208.com/agricolae/,,TRUE,
+FAOSTAT,https://gitlab.com/paulrougieux/faostatpackage,https://cran.r-project.org/web/packages/FAOSTAT/index.html,,TRUE,
+faobulk,https://github.com/muuankarski/faobulk,https://github.com/muuankarski/faobulk,,TRUE,
