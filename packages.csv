@@ -29,15 +29,15 @@ hnp,http://github.com/cran/hnp, https://cran.r-project.org/package=hnp ,FALSE,un
 IBCF.MTME,https://github.com/frahik/IBCF.MTME,https://github.com/frahik/IBCF.MTME,TRUE,
 LinkageMapView,https://github.com/bio-services/LinkageMapView,https://CRAN.R-project.org/package=LinkageMapView,TRUE,
 lme4,https://github.com/lme4/lme4, https://CRAN.R-project.org/package=lme4,TRUE,
-lme4gs, https://github.com/perpdgo/lme4GS, https://github.com/perpdgo/lme4GS,TRUE,
+lme4GS,https://github.com/perpdgo/lme4GS/tree/master/pkg_src/lme4GS, https://github.com/perpdgo/lme4GS,TRUE,
 lme4qtl, https://github.com/variani/lme4qtl, https://github.com/variani/lme4qtl,TRUE,
 mappoly,https://github.com/mmollina/MAPpoly,https://mmollina.github.io/MAPpoly/,TRUE,
 MapRtools, https://github.com/jendelman/MapRtools, https://github.com/jendelman/MapRtools,TRUE,
 MCMCglmm,https://github.com/jarrodhadfield/MCMCglmm, https://CRAN.R-project.org/package=MCMCglmm,TRUE,
 MegaLMM, https://github.com/deruncie/MegaLMM/, https://github.com/deruncie/MegaLMM/,TRUE,
-nlme,https://svn.r-project.org/R-packages/trunk/nlme/, https://CRAN.R-project.org/package=nlme,TRUE,
+nlme,https://svn.r-project.org/R-packages/trunk/nlme/, https://CRAN.R-project.org/package=nlme,FALSE,need to resolve for svn
 nlraa,https://github.com/femiguez/nlraa,https://femiguez.github.io/nlraa-docs/index.html,TRUE,
-pedigreemm,Svn://svn.r-forge.r-project.org/svnroot/pedigreemm/, https://CRAN.R-project.org/package=pedigreemm,TRUE,
+pedigreemm,Svn://svn.r-forge.r-project.org/svnroot/pedigreemm/, https://CRAN.R-project.org/package=pedigreemm,FALSE,need to resolve for svn
 polymapR,http://github.com/cran/polymapR, https://CRAN.R-project.org/package=polymapR,TRUE,
 polyqtlR,http://github.com/cran/polyqtlR, https://CRAN.R-project.org/package=polyqtlR ,TRUE,
 poppr,https://github.com/grunwaldlab/poppr/,https://grunwaldlab.github.io/poppr/,TRUE,
@@ -48,7 +48,7 @@ qtlpoly,https://github.com/gabrielgesteira/QTLpoly,https://gabrielgesteira.githu
 rapsimng,https://github.com/byzheng/rapsimng,https://rapsimng.bangyou.me/,TRUE,
 rarms,https://github.com/cbw1243/rarms,https://github.com/cbw1243/rarms,TRUE,
 rMVP,https://github.com/xiaolei-lab/rMVP,https://github.com/xiaolei-lab/rMVP,TRUE,
-rnassqs,https://docs.ropensci.org/rnassqs/,https://docs.ropensci.org/rnassqs/,TRUE,
+rnassqs,https://github.com/ropensci/rnassqs/,https://docs.ropensci.org/rnassqs/,TRUE,
 rnoaa,https://github.com/ropensci/rnoaa,https://docs.ropensci.org/rnoaa/,TRUE,
 rrBLUP,http://github.com/cran/rrBLUP, https://CRAN.R-project.org/package=rrBLUP,TRUE,
 rusda,https://github.com/ropensci/rusda,https://docs.ropensci.org/rusda/,TRUE,
@@ -57,7 +57,7 @@ simplePHENOTYPES, https://github.com/samuelbfernandes/simplePHENOTYPES, https://
 sommer,https://github.com/covaruber/sommer,https://github.com/covaruber/sommer,TRUE,
 soilDB,https://github.com/ncss-tech/soilDB/,http://ncss-tech.github.io/soilDB/,TRUE,
 SoilTaxonomy,https://github.com/ncss-tech/SoilTaxonomy,http://ncss-tech.github.io/SoilTaxonomy/,TRUE,
-soyNAM,https://github.com/alenxav/SoyNAM, https://CRAN.R-project.org/package=SoyNAM ,TRUE,
+SoyNAM,https://github.com/alenxav/SoyNAM, https://CRAN.R-project.org/package=SoyNAM ,TRUE,
 statgenGWAS,https://github.com/Biometris/statgenGWAS,https://biometris.github.io/statgenGWAS/,TRUE,
 statgenGxE,https://github.com/Biometris/statgenGxE,https://biometris.github.io/statgenGxE/,TRUE,
 statgenSTA,https://github.com/Biometris/statgenSTA,https://biometris.github.io/statgenSTA/,TRUE,
@@ -72,4 +72,4 @@ SoilKnowledgeBase,https://github.com/ncss-tech/SoilKnowledgeBase,https://github.
 soilReports,https://github.com/ncss-tech/soilReports,https://ncss-tech.github.io/soilReports/,FALSE,add to ctv? Ask package authors
 statgenIBD,https://github.com/Biometris/statgenIBD,https://biometris.github.io/statgenIBD/,TRUE,add to ctv
 statgenMPP,https://github.com/Biometris/statgenMPP,https://biometris.github.io/statgenMPP/,TRUE,add to ctv
-stagenHTP,https://github.com/Biometris/statgenHTP,https://biometris.github.io/statgenHTP/,TRUE,add to ctv
+statgenHTP,https://github.com/Biometris/statgenHTP,https://biometris.github.io/statgenHTP/,TRUE,add to ctv

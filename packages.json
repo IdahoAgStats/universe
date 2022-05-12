@@ -112,8 +112,8 @@
     "url": "https://github.com/lme4/lme4"
   },
   {
-    "package": "lme4gs",
-    "url": "https://github.com/perpdgo/lme4GS"
+    "package": "lme4GS",
+    "url": "https://github.com/perpdgo/lme4GS/tree/master/pkg_src/lme4GS"
   },
   {
     "package": "lme4qtl",
@@ -136,16 +136,8 @@
     "url": "https://github.com/deruncie/MegaLMM/"
   },
   {
-    "package": "nlme",
-    "url": "https://svn.r-project.org/R-packages/trunk/nlme/"
-  },
-  {
     "package": "nlraa",
     "url": "https://github.com/femiguez/nlraa"
-  },
-  {
-    "package": "pedigreemm",
-    "url": "Svn://svn.r-forge.r-project.org/svnroot/pedigreemm/"
   },
   {
     "package": "polymapR",
@@ -189,7 +181,7 @@
   },
   {
     "package": "rnassqs",
-    "url": "https://docs.ropensci.org/rnassqs/"
+    "url": "https://github.com/ropensci/rnassqs/"
   },
   {
     "package": "rnoaa",
@@ -224,7 +216,7 @@
     "url": "https://github.com/ncss-tech/SoilTaxonomy"
   },
   {
-    "package": "soyNAM",
+    "package": "SoyNAM",
     "url": "https://github.com/alenxav/SoyNAM"
   },
   {
@@ -272,7 +264,7 @@
     "url": "https://github.com/Biometris/statgenMPP"
   },
   {
-    "package": "stagenHTP",
+    "package": "statgenHTP",
     "url": "https://github.com/Biometris/statgenHTP"
   }
 ]
