@@ -112,10 +112,6 @@
     "url": "https://github.com/lme4/lme4"
   },
   {
-    "package": "lme4GS",
-    "url": "https://github.com/perpdgo/lme4GS/tree/master/pkg_src/lme4GS"
-  },
-  {
     "package": "lme4qtl",
     "url": "https://github.com/variani/lme4qtl"
   },
