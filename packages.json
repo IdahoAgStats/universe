@@ -294,5 +294,17 @@
   {
     "package": "usdampr",
     "url": "https://github.com/cbw1243/usdampr"
+  },
+  {
+    "package": "agricolae",
+    "url": "https://github.com/myaseen208/agricolae"
+  },
+  {
+    "package": "FAOSTAT",
+    "url": "https://gitlab.com/paulrougieux/faostatpackage"
+  },
+  {
+    "package": "faobulk",
+    "url": "https://github.com/muuankarski/faobulk"
   }
 ]
