@@ -29,7 +29,7 @@ hnp,http://github.com/cran/hnp, https://cran.r-project.org/package=hnp ,FALSE,un
 IBCF.MTME,https://github.com/frahik/IBCF.MTME,https://github.com/frahik/IBCF.MTME,TRUE,
 LinkageMapView,https://github.com/bio-services/LinkageMapView,https://CRAN.R-project.org/package=LinkageMapView,TRUE,
 lme4,https://github.com/lme4/lme4, https://CRAN.R-project.org/package=lme4,TRUE,
-lme4GS,https://github.com/perpdgo/lme4GS/tree/master/pkg_src/lme4GS, https://github.com/perpdgo/lme4GS,FALSE,need to resolve for svn
+lme4GS,https://github.com/perpdgo/lme4GS, https://github.com/perpdgo/lme4GS,TRUE,need to resolve for svn
 lme4qtl, https://github.com/variani/lme4qtl, https://github.com/variani/lme4qtl,TRUE,
 mappoly,https://github.com/mmollina/MAPpoly,https://mmollina.github.io/MAPpoly/,TRUE,
 MapRtools, https://github.com/jendelman/MapRtools, https://github.com/jendelman/MapRtools,TRUE,
@@ -37,7 +37,7 @@ MCMCglmm,https://github.com/jarrodhadfield/MCMCglmm, https://CRAN.R-project.org/
 MegaLMM, https://github.com/deruncie/MegaLMM/, https://github.com/deruncie/MegaLMM/,TRUE,
 nlme,https://svn.r-project.org/R-packages/trunk/nlme/, https://CRAN.R-project.org/package=nlme,FALSE,need to resolve for svn
 nlraa,https://github.com/femiguez/nlraa,https://femiguez.github.io/nlraa-docs/index.html,TRUE,
-pedigreemm,Svn://svn.r-forge.r-project.org/svnroot/pedigreemm/, https://CRAN.R-project.org/package=pedigreemm,FALSE,need to resolve for svn
+pedigreemm,https://github.com/r-forge/pedigreemm, https://CRAN.R-project.org/package=pedigreemm,TRUE,need to resolve for svn
 polymapR,http://github.com/cran/polymapR, https://CRAN.R-project.org/package=polymapR,TRUE,
 polyqtlR,http://github.com/cran/polyqtlR, https://CRAN.R-project.org/package=polyqtlR ,TRUE,
 poppr,https://github.com/grunwaldlab/poppr/,https://grunwaldlab.github.io/poppr/,TRUE,
@@ -73,3 +73,9 @@ soilReports,https://github.com/ncss-tech/soilReports,https://ncss-tech.github.io
 statgenIBD,https://github.com/Biometris/statgenIBD,https://biometris.github.io/statgenIBD/,TRUE,add to ctv
 statgenMPP,https://github.com/Biometris/statgenMPP,https://biometris.github.io/statgenMPP/,TRUE,add to ctv
 statgenHTP,https://github.com/Biometris/statgenHTP,https://biometris.github.io/statgenHTP/,TRUE,add to ctv
+Recocrop,https://github.com/cropmodels/Recocrop,https://CRAN.R-project.org/package=Recocrop ,TRUE,add to ctv
+Rwofost,https://github.com/cropmodels/Rwofost,https://CRAN.R-project.org/package=Rwofost,TRUE,add to ctv
+meteor,https://github.com/cropmodels/meteor,https://CRAN.R-project.org/package=meteor,TRUE,add to ctv
+Rquefts, https://github.com/cropmodels/Rquefts,https://CRAN.R-project.org/package=Rquefts,TRUE,add to ctv
+phenorice,https://github.com/cropmodels/phenorice,https://github.com/cropmodels/phenorice,TRUE,add to ctv
+phenoriceR,https://github.com/lbusett/phenoriceR,https://lbusett.github.io/phenoriceR/index.html,TRUE,add to ctv

@@ -112,6 +112,10 @@
     "url": "https://github.com/lme4/lme4"
   },
   {
+    "package": "lme4GS",
+    "url": "https://github.com/perpdgo/lme4GS"
+  },
+  {
     "package": "lme4qtl",
     "url": "https://github.com/variani/lme4qtl"
   },
@@ -134,6 +138,10 @@
   {
     "package": "nlraa",
     "url": "https://github.com/femiguez/nlraa"
+  },
+  {
+    "package": "pedigreemm",
+    "url": "https://github.com/r-forge/pedigreemm"
   },
   {
     "package": "polymapR",
@@ -262,5 +270,29 @@
   {
     "package": "statgenHTP",
     "url": "https://github.com/Biometris/statgenHTP"
+  },
+  {
+    "package": "Recocrop",
+    "url": "https://github.com/cropmodels/Recocrop"
+  },
+  {
+    "package": "Rwofost",
+    "url": "https://github.com/cropmodels/Rwofost"
+  },
+  {
+    "package": "meteor",
+    "url": "https://github.com/cropmodels/meteor"
+  },
+  {
+    "package": "Rquefts",
+    "url": "https://github.com/cropmodels/Rquefts"
+  },
+  {
+    "package": "phenorice",
+    "url": "https://github.com/cropmodels/phenorice"
+  },
+  {
+    "package": "phenoriceR",
+    "url": "https://github.com/lbusett/phenoriceR"
   }
 ]
