@@ -113,7 +113,7 @@
   },
   {
     "package": "lme4GS",
-    "url": "https://github.com/perpdgo/lme4GS"
+    "url": "https://github.com/perpdgo/lme4GS/tree/master/pkg_src/lme4GS"
   },
   {
     "package": "lme4qtl",
@@ -141,7 +141,7 @@
   },
   {
     "package": "pedigreemm",
-    "url": "https://github.com/r-forge/pedigreemm"
+    "url": "https://github.com/cran/pedigreemm"
   },
   {
     "package": "polymapR",

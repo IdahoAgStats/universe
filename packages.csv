@@ -29,7 +29,7 @@ hnp,http://github.com/cran/hnp, https://cran.r-project.org/package=hnp ,FALSE,un
 IBCF.MTME,https://github.com/frahik/IBCF.MTME,https://github.com/frahik/IBCF.MTME,TRUE,
 LinkageMapView,https://github.com/bio-services/LinkageMapView,https://CRAN.R-project.org/package=LinkageMapView,TRUE,
 lme4,https://github.com/lme4/lme4, https://CRAN.R-project.org/package=lme4,TRUE,
-lme4GS,https://github.com/perpdgo/lme4GS, https://github.com/perpdgo/lme4GS,TRUE,need to resolve for svn
+lme4GS,https://github.com/perpdgo/lme4GS/tree/master/pkg_src/lme4GS, https://github.com/perpdgo/lme4GS,TRUE,need to resolve for svn
 lme4qtl, https://github.com/variani/lme4qtl, https://github.com/variani/lme4qtl,TRUE,
 mappoly,https://github.com/mmollina/MAPpoly,https://mmollina.github.io/MAPpoly/,TRUE,
 MapRtools, https://github.com/jendelman/MapRtools, https://github.com/jendelman/MapRtools,TRUE,
@@ -37,7 +37,7 @@ MCMCglmm,https://github.com/jarrodhadfield/MCMCglmm, https://CRAN.R-project.org/
 MegaLMM, https://github.com/deruncie/MegaLMM/, https://github.com/deruncie/MegaLMM/,TRUE,
 nlme,https://svn.r-project.org/R-packages/trunk/nlme/, https://CRAN.R-project.org/package=nlme,FALSE,need to resolve for svn
 nlraa,https://github.com/femiguez/nlraa,https://femiguez.github.io/nlraa-docs/index.html,TRUE,
-pedigreemm,https://github.com/r-forge/pedigreemm, https://CRAN.R-project.org/package=pedigreemm,TRUE,need to resolve for svn
+pedigreemm,https://github.com/cran/pedigreemm, https://CRAN.R-project.org/package=pedigreemm,TRUE,need to resolve for svn
 polymapR,http://github.com/cran/polymapR, https://CRAN.R-project.org/package=polymapR,TRUE,
 polyqtlR,http://github.com/cran/polyqtlR, https://CRAN.R-project.org/package=polyqtlR ,TRUE,
 poppr,https://github.com/grunwaldlab/poppr/,https://grunwaldlab.github.io/poppr/,TRUE,
