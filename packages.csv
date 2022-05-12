@@ -32,7 +32,7 @@ IBCF.MTME,https://github.com/frahik/IBCF.MTME,https://github.com/frahik/IBCF.MTM
 INLA,https://github.com/inbo/INLA,https://www.r-inla.org/home,,TRUE,
 LinkageMapView,https://github.com/bio-services/LinkageMapView,https://CRAN.R-project.org/package=LinkageMapView,,TRUE,
 lme4,https://github.com/lme4/lme4, https://CRAN.R-project.org/package=lme4,,TRUE,
-lme4GS,https://github.com/perpdgo/lme4GS/, https://github.com/perpdgo/lme4GS,fdafd,TRUE,need to resolve for svn
+lme4GS,https://github.com/perpdgo/lme4GS/, https://github.com/perpdgo/lme4GS,fdafd,FALSE,need to resolve for svn
 lme4qtl, https://github.com/variani/lme4qtl, https://github.com/variani/lme4qtl,pkg_src/lme4GS,TRUE,
 mappoly,https://github.com/mmollina/MAPpoly,https://mmollina.github.io/MAPpoly/,,TRUE,
 MapRtools, https://github.com/jendelman/MapRtools, https://github.com/jendelman/MapRtools,,TRUE,
