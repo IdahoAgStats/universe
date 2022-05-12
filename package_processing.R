@@ -1,7 +1,7 @@
 
 library(jsonlite); library(dplyr)
 
-packages <- read.csv("packages.csv") %>% filter(include == "yes") %>% 
+packages <- read.csv("packages.csv") %>% filter(include == "TRUE") %>% 
   select(package, github) %>% rename(url = "github") %>% 
   mutate_all(., trimws, which = "both")
 

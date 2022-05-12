@@ -12,7 +12,7 @@
     "url": "https://github.com/myaseen208/agriTutorial"
   },
   {
-    "package": "agroCensData",
+    "package": "agriCensData",
     "url": "https://github.com/OnofriAndreaPG/agriCensData"
   },
   {
@@ -74,5 +74,205 @@
   {
     "package": "epiphy",
     "url": "https://github.com/chgigot/epiphy"
+  },
+  {
+    "package": "fabio",
+    "url": "https://github.com/fineprint-global/fabio"
+  },
+  {
+    "package": "FedData",
+    "url": "https://github.com/ropensci/FedData"
+  },
+  {
+    "package": "fertplan",
+    "url": "https://github.com/mbask/fertplan"
+  },
+  {
+    "package": "ggfertilizer",
+    "url": "https://github.com/wenlong-liu/ggfertilizer"
+  },
+  {
+    "package": "gge",
+    "url": "https://github.com/kwstat/gge"
+  },
+  {
+    "package": "hagis",
+    "url": "https://github.com/openplantpathology/hagis"
+  },
+  {
+    "package": "IBCF.MTME",
+    "url": "https://github.com/frahik/IBCF.MTME"
+  },
+  {
+    "package": "LinkageMapView",
+    "url": "https://github.com/bio-services/LinkageMapView"
+  },
+  {
+    "package": "lme4",
+    "url": "https://github.com/lme4/lme4"
+  },
+  {
+    "package": "lme4gs",
+    "url": "https://github.com/perpdgo/lme4GS"
+  },
+  {
+    "package": "lme4qtl",
+    "url": "https://github.com/variani/lme4qtl"
+  },
+  {
+    "package": "mappoly",
+    "url": "https://github.com/mmollina/MAPpoly"
+  },
+  {
+    "package": "MapRtools",
+    "url": "https://github.com/jendelman/MapRtools"
+  },
+  {
+    "package": "MCMCglmm",
+    "url": "https://github.com/jarrodhadfield/MCMCglmm"
+  },
+  {
+    "package": "MegaLMM",
+    "url": "https://github.com/deruncie/MegaLMM/"
+  },
+  {
+    "package": "nlme",
+    "url": "https://svn.r-project.org/R-packages/trunk/nlme/"
+  },
+  {
+    "package": "nlraa",
+    "url": "https://github.com/femiguez/nlraa"
+  },
+  {
+    "package": "pedigreemm",
+    "url": "Svn://svn.r-forge.r-project.org/svnroot/pedigreemm/"
+  },
+  {
+    "package": "polymapR",
+    "url": "http://github.com/cran/polymapR"
+  },
+  {
+    "package": "polyqtlR",
+    "url": "http://github.com/cran/polyqtlR"
+  },
+  {
+    "package": "poppr",
+    "url": "https://github.com/grunwaldlab/poppr/"
+  },
+  {
+    "package": "PROSPER",
+    "url": "http://github.com/cran/PROSPER"
+  },
+  {
+    "package": "qgtools",
+    "url": "http://github.com/cran/qgtools"
+  },
+  {
+    "package": "qtl",
+    "url": "https://github.com/kbroman/qtl"
+  },
+  {
+    "package": "qtlpoly",
+    "url": "https://github.com/gabrielgesteira/QTLpoly"
+  },
+  {
+    "package": "rapsimng",
+    "url": "https://github.com/byzheng/rapsimng"
+  },
+  {
+    "package": "rarms",
+    "url": "https://github.com/cbw1243/rarms"
+  },
+  {
+    "package": "rMVP",
+    "url": "https://github.com/xiaolei-lab/rMVP"
+  },
+  {
+    "package": "rnassqs",
+    "url": "https://docs.ropensci.org/rnassqs/"
+  },
+  {
+    "package": "rnoaa",
+    "url": "https://github.com/ropensci/rnoaa"
+  },
+  {
+    "package": "rrBLUP",
+    "url": "http://github.com/cran/rrBLUP"
+  },
+  {
+    "package": "rusda",
+    "url": "https://github.com/ropensci/rusda"
+  },
+  {
+    "package": "sharpshootR",
+    "url": "https://github.com/ncss-tech/sharpshootR"
+  },
+  {
+    "package": "simplePHENOTYPES",
+    "url": "https://github.com/samuelbfernandes/simplePHENOTYPES"
+  },
+  {
+    "package": "sommer",
+    "url": "https://github.com/covaruber/sommer"
+  },
+  {
+    "package": "soilDB",
+    "url": "https://github.com/ncss-tech/soilDB/"
+  },
+  {
+    "package": "SoilTaxonomy",
+    "url": "https://github.com/ncss-tech/SoilTaxonomy"
+  },
+  {
+    "package": "soyNAM",
+    "url": "https://github.com/alenxav/SoyNAM"
+  },
+  {
+    "package": "statgenGWAS",
+    "url": "https://github.com/Biometris/statgenGWAS"
+  },
+  {
+    "package": "statgenGxE",
+    "url": "https://github.com/Biometris/statgenGxE"
+  },
+  {
+    "package": "statgenSTA",
+    "url": "https://github.com/Biometris/statgenSTA"
+  },
+  {
+    "package": "tidyUSDA",
+    "url": "https://github.com/bradlindblad/tidyUSDA/"
+  },
+  {
+    "package": "usdampr",
+    "url": "https://github.com/cbw1243/usdampr"
+  },
+  {
+    "package": "polyBreedR",
+    "url": "https://github.com/jendelman/polyBreedR"
+  },
+  {
+    "package": "GWASpoly",
+    "url": "https://github.com/jendelman/GWASpoly"
+  },
+  {
+    "package": "StageWise",
+    "url": "https://github.com/jendelman/StageWise"
+  },
+  {
+    "package": "diaQTL",
+    "url": "https://github.com/jendelman/diaQTL"
+  },
+  {
+    "package": "statgenIBD",
+    "url": "https://github.com/Biometris/statgenIBD"
+  },
+  {
+    "package": "statgenMPP",
+    "url": "https://github.com/Biometris/statgenMPP"
+  },
+  {
+    "package": "stagenHTP",
+    "url": "https://github.com/Biometris/statgenHTP"
   }
 ]
