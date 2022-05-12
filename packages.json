@@ -140,6 +140,11 @@
     "subdir": ""
   },
   {
+    "package": "INLA",
+    "url": "https://github.com/inbo/INLA",
+    "subdir": ""
+  },
+  {
     "package": "LinkageMapView",
     "url": "https://github.com/bio-services/LinkageMapView",
     "subdir": ""

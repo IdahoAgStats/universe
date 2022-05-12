@@ -29,6 +29,7 @@ GWASpoly,https://github.com/jendelman/GWASpoly,https://github.com/jendelman/GWAS
 hagis,https://github.com/openplantpathology/hagis,https://openplantpathology.github.io/hagis/,,TRUE,
 hnp,http://github.com/cran/hnp, https://cran.r-project.org/package=hnp ,,FALSE,
 IBCF.MTME,https://github.com/frahik/IBCF.MTME,https://github.com/frahik/IBCF.MTME,,TRUE,
+INLA,https://github.com/inbo/INLA,https://www.r-inla.org/home,,TRUE,
 LinkageMapView,https://github.com/bio-services/LinkageMapView,https://CRAN.R-project.org/package=LinkageMapView,,TRUE,
 lme4,https://github.com/lme4/lme4, https://CRAN.R-project.org/package=lme4,,TRUE,
 lme4GS,https://github.com/perpdgo/lme4GS/, https://github.com/perpdgo/lme4GS,fdafd,TRUE,need to resolve for svn
