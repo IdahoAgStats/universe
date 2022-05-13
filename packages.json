@@ -301,7 +301,7 @@
   },
   {
     "package": "FAOSTAT",
-    "url": "https://gitlab.com/faostatpackage/FAOSTAT"
+    "url": "https://github.com/cran/FAOSTAT"
   },
   {
     "package": "faobulk",
