@@ -84,3 +84,5 @@ statgenSTA,https://github.com/Biometris/statgenSTA,https://biometris.github.io/s
 tidyUSDA,https://github.com/bradlindblad/tidyUSDA/,https://bradlindblad.github.io/tidyUSDA/,,TRUE,
 usdampr,https://github.com/cbw1243/usdampr, https://CRAN.R-project.org/package=usdampr,,TRUE,
 NutrienTrackeR,https://github.com/AndreaRMICL/NutrienTrackeR,https://CRAN.R-project.org/package=NutrienTrackeR,,TRUE,
+onemap,https://github.com/augusto-garcia/onemap,http://augustogarcia.me/onemap/,,TRUE,
+ASMap,https://github.com/cran/ASMap,https://CRAN.R-project.org/package=ASMap,,TRUE,

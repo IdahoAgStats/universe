@@ -310,5 +310,13 @@
   {
     "package": "NutrienTrackeR",
     "url": "https://github.com/AndreaRMICL/NutrienTrackeR"
+  },
+  {
+    "package": "onemap",
+    "url": "https://github.com/augusto-garcia/onemap"
+  },
+  {
+    "package": "ASMap",
+    "url": "https://github.com/cran/ASMap"
   }
 ]
