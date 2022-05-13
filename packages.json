@@ -8,6 +8,10 @@
     "url": "https://github.com/OnofriAndreaPG/agriCensData"
   },
   {
+    "package": "agricolae",
+    "url": "https://github.com/myaseen208/agricolae"
+  },
+  {
     "package": "agridat",
     "url": "https://github.com/kwstat/agridat/"
   },
@@ -82,6 +86,14 @@
   {
     "package": "fabio",
     "url": "https://github.com/fineprint-global/fabio"
+  },
+  {
+    "package": "faobulk",
+    "url": "https://github.com/muuankarski/faobulk"
+  },
+  {
+    "package": "FAOSTAT",
+    "url": "https://github.com/cran/FAOSTAT"
   },
   {
     "package": "FedData",
@@ -296,15 +308,7 @@
     "url": "https://github.com/cbw1243/usdampr"
   },
   {
-    "package": "agricolae",
-    "url": "https://github.com/myaseen208/agricolae"
-  },
-  {
-    "package": "FAOSTAT",
-    "url": "https://github.com/cran/FAOSTAT"
-  },
-  {
-    "package": "faobulk",
-    "url": "https://github.com/muuankarski/faobulk"
+    "package": "NutrienTrackeR",
+    "url": "https://github.com/AndreaRMICL/NutrienTrackeR"
   }
 ]
