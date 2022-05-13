@@ -301,7 +301,7 @@
   },
   {
     "package": "FAOSTAT",
-    "url": "https://gitlab.com/paulrougieux/faostatpackage/-/tree/master/FAOSTAT"
+    "url": "https://gitlab.com/faostatpackage/FAOSTAT"
   },
   {
     "package": "faobulk",
