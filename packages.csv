@@ -6,6 +6,7 @@ agridat,https://github.com/kwstat/agridat/,https://kwstat.github.io/agridat/,,TR
 agriTutorial,https://github.com/myaseen208/agriTutorial,https://myaseen208.com/agriTutorial/index.html,,TRUE,
 apsimx,https://github.com/femiguez/apsimx,https://femiguez.github.io/apsimx-docs/,,TRUE,
 aqp,https://github.com/ncss-tech/aqp,http://ncss-tech.github.io/aqp/,,TRUE,
+ASMap,https://github.com/cran/ASMap,https://CRAN.R-project.org/package=ASMap,,TRUE,
 asremlPlus,https://github.com/briencj/asremlPlus,https://briencj.github.io/asremlPlus/,,TRUE,
 bayesammi,https://github.com/myaseen208/bayesammi,https://myaseen208.com/bayesammi/,,TRUE,
 BGLR,https://github.com/gdlc/BGLR-R,https://github.com/gdlc/BGLR-R,,TRUE,
@@ -26,6 +27,7 @@ faobulk,https://github.com/muuankarski/faobulk,https://github.com/muuankarski/fa
 FAOSTAT,https://github.com/cran/FAOSTAT,https://gitlab.com/paulrougieux/faostatpackage,,TRUE,
 FedData,https://github.com/ropensci/FedData,https://docs.ropensci.org/FedData,,TRUE,
 fertplan, https://github.com/mbask/fertplan, https://github.com/mbask/fertplan,,TRUE,
+FW,https://github.com/lian0090/FW/,,,FALSE,removed until issue with 'sprawl' is fixed
 gge,https://github.com/kwstat/gge,https://kwstat.github.io/gge,,TRUE,
 ggfertilizer, https://github.com/wenlong-liu/ggfertilizer,https://wenlong-liu.github.io/ggfertilizer/,,TRUE,
 GWASpoly,https://github.com/jendelman/GWASpoly,https://github.com/jendelman/GWASpoly,,TRUE,
@@ -34,6 +36,7 @@ hnp,http://github.com/cran/hnp, https://cran.r-project.org/package=hnp ,,FALSE,
 IBCF.MTME,https://github.com/frahik/IBCF.MTME,https://github.com/frahik/IBCF.MTME,,TRUE,
 INLA,https://github.com/inbo/INLA,https://www.r-inla.org/home,,TRUE,
 LinkageMapView,https://github.com/bio-services/LinkageMapView,https://CRAN.R-project.org/package=LinkageMapView,,TRUE,
+lmDiallel,https://github.com/OnofriAndreaPG/lmDiallel,https://CRAN.R-project.org/package=lmDiallel,,TRUE,
 lme4,https://github.com/lme4/lme4, https://CRAN.R-project.org/package=lme4,,TRUE,
 lme4GS,https://github.com/perpdgo/lme4GS/, https://github.com/perpdgo/lme4GS,fdafd,FALSE,need to resolve for svn
 lme4qtl, https://github.com/variani/lme4qtl, https://github.com/variani/lme4qtl,pkg_src/lme4GS,TRUE,
@@ -44,10 +47,13 @@ MegaLMM, https://github.com/deruncie/MegaLMM/, https://github.com/deruncie/MegaL
 meteor,https://github.com/cropmodels/meteor,https://CRAN.R-project.org/package=meteor,,TRUE,
 nlme,https://svn.r-project.org/R-packages/trunk/nlme/, https://CRAN.R-project.org/package=nlme,,FALSE,need to resolve for svn
 nlraa,https://github.com/femiguez/nlraa,https://femiguez.github.io/nlraa-docs/index.html,,TRUE,
+NutrienTrackeR,https://github.com/AndreaRMICL/NutrienTrackeR,https://CRAN.R-project.org/package=NutrienTrackeR,,TRUE,
+onemap,https://github.com/augusto-garcia/onemap,http://augustogarcia.me/onemap/,,TRUE,
 OSDRegistry,https://github.com/ncss-tech/OSDRegistry,https://github.com/ncss-tech/OSDRegistry,,FALSE,add to ctv? Ask package authors
-pedigreemm,https://github.com/cran/pedigreemm, https://CRAN.R-project.org/package=pedigreemm,,TRUE,need to resolve for svn
+pedigreemm,https://github.com/r-forge/pedigreemm, https://CRAN.R-project.org/package=pedigreemm,https://github.com/cran/pedigreemm,TRUE,need to resolve for svn
 phenorice,https://github.com/cropmodels/phenorice,https://github.com/cropmodels/phenorice,,TRUE,
 phenoriceR,https://github.com/lbusett/phenoriceR,https://lbusett.github.io/phenoriceR/index.html,,TRUE,
+plantbreeding,https://github.com/r-forge/plantbreeding,,,FALSE,
 polyBreedR,https://github.com/jendelman/polyBreedR,https://github.com/jendelman/polyBreedR,,TRUE,
 polymapR,http://github.com/cran/polymapR, https://CRAN.R-project.org/package=polymapR,,TRUE,
 polyqtlR,http://github.com/cran/polyqtlR, https://CRAN.R-project.org/package=polyqtlR ,,TRUE,
@@ -74,6 +80,7 @@ soilReports,https://github.com/ncss-tech/soilReports,https://ncss-tech.github.io
 SoilTaxonomy,https://github.com/ncss-tech/SoilTaxonomy,http://ncss-tech.github.io/SoilTaxonomy/,,TRUE,
 sommer,https://github.com/covaruber/sommer,https://github.com/covaruber/sommer,,TRUE,
 SoyNAM,https://github.com/alenxav/SoyNAM, https://CRAN.R-project.org/package=SoyNAM ,,TRUE,
+st4gi,https://github.com/reyzaguirre/st4gi,,,TRUE,
 StageWise,https://github.com/jendelman/StageWise,https://github.com/jendelman/StageWise,,TRUE,
 statgenGWAS,https://github.com/Biometris/statgenGWAS,https://biometris.github.io/statgenGWAS/,,TRUE,
 statgenGxE,https://github.com/Biometris/statgenGxE,https://biometris.github.io/statgenGxE/,,TRUE,
@@ -83,6 +90,3 @@ statgenMPP,https://github.com/Biometris/statgenMPP,https://biometris.github.io/s
 statgenSTA,https://github.com/Biometris/statgenSTA,https://biometris.github.io/statgenSTA/,,TRUE,
 tidyUSDA,https://github.com/bradlindblad/tidyUSDA/,https://bradlindblad.github.io/tidyUSDA/,,TRUE,
 usdampr,https://github.com/cbw1243/usdampr, https://CRAN.R-project.org/package=usdampr,,TRUE,
-NutrienTrackeR,https://github.com/AndreaRMICL/NutrienTrackeR,https://CRAN.R-project.org/package=NutrienTrackeR,,TRUE,
-onemap,https://github.com/augusto-garcia/onemap,http://augustogarcia.me/onemap/,,TRUE,
-ASMap,https://github.com/cran/ASMap,https://CRAN.R-project.org/package=ASMap,,TRUE,

@@ -28,6 +28,10 @@
     "url": "https://github.com/ncss-tech/aqp"
   },
   {
+    "package": "ASMap",
+    "url": "https://github.com/cran/ASMap"
+  },
+  {
     "package": "asremlPlus",
     "url": "https://github.com/briencj/asremlPlus"
   },
@@ -132,6 +136,10 @@
     "url": "https://github.com/bio-services/LinkageMapView"
   },
   {
+    "package": "lmDiallel",
+    "url": "https://github.com/OnofriAndreaPG/lmDiallel"
+  },
+  {
     "package": "lme4",
     "url": "https://github.com/lme4/lme4"
   },
@@ -164,8 +172,16 @@
     "url": "https://github.com/femiguez/nlraa"
   },
   {
+    "package": "NutrienTrackeR",
+    "url": "https://github.com/AndreaRMICL/NutrienTrackeR"
+  },
+  {
+    "package": "onemap",
+    "url": "https://github.com/augusto-garcia/onemap"
+  },
+  {
     "package": "pedigreemm",
-    "url": "https://github.com/cran/pedigreemm"
+    "url": "https://github.com/r-forge/pedigreemm"
   },
   {
     "package": "phenorice",
@@ -272,6 +288,10 @@
     "url": "https://github.com/alenxav/SoyNAM"
   },
   {
+    "package": "st4gi",
+    "url": "https://github.com/reyzaguirre/st4gi"
+  },
+  {
     "package": "StageWise",
     "url": "https://github.com/jendelman/StageWise"
   },
@@ -306,17 +326,5 @@
   {
     "package": "usdampr",
     "url": "https://github.com/cbw1243/usdampr"
-  },
-  {
-    "package": "NutrienTrackeR",
-    "url": "https://github.com/AndreaRMICL/NutrienTrackeR"
-  },
-  {
-    "package": "onemap",
-    "url": "https://github.com/augusto-garcia/onemap"
-  },
-  {
-    "package": "ASMap",
-    "url": "https://github.com/cran/ASMap"
   }
 ]
