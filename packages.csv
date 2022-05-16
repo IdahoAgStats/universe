@@ -92,3 +92,4 @@ tidyUSDA,https://github.com/bradlindblad/tidyUSDA/,https://bradlindblad.github.i
 usdampr,https://github.com/cbw1243/usdampr, https://CRAN.R-project.org/package=usdampr,,TRUE,
 cpgen,https://github.com/cheuerde/cpgen,,,TRUE,
 ascoTraceR,https://github.com/IhsanKhaliq/ascotraceR,https://ihsankhaliq.github.io/ascotraceR/,,TRUE,
+SpATS,https://CRAN.R-project.org/package=SpATS,,,TRUE,

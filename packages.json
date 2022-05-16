@@ -338,5 +338,9 @@
   {
     "package": "ascoTraceR",
     "url": "https://github.com/IhsanKhaliq/ascotraceR"
+  },
+  {
+    "package": "SpATS",
+    "url": "https://CRAN.R-project.org/package=SpATS"
   }
 ]
