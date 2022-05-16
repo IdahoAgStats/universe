@@ -90,3 +90,5 @@ statgenMPP,https://github.com/Biometris/statgenMPP,https://biometris.github.io/s
 statgenSTA,https://github.com/Biometris/statgenSTA,https://biometris.github.io/statgenSTA/,,TRUE,
 tidyUSDA,https://github.com/bradlindblad/tidyUSDA/,https://bradlindblad.github.io/tidyUSDA/,,TRUE,
 usdampr,https://github.com/cbw1243/usdampr, https://CRAN.R-project.org/package=usdampr,,TRUE,
+cpgen,https://github.com/cheuerde/cpgen,,,TRUE,
+ascoTraceR,https://github.com/IhsanKhaliq/ascotraceR,https://ihsankhaliq.github.io/ascotraceR/,,TRUE,

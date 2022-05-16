@@ -330,5 +330,13 @@
   {
     "package": "usdampr",
     "url": "https://github.com/cbw1243/usdampr"
+  },
+  {
+    "package": "cpgen",
+    "url": "https://github.com/cheuerde/cpgen"
+  },
+  {
+    "package": "ascoTraceR",
+    "url": "https://github.com/IhsanKhaliq/ascotraceR"
   }
 ]
