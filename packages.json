@@ -28,6 +28,10 @@
     "url": "https://github.com/ncss-tech/aqp"
   },
   {
+    "package": "ascoTraceR",
+    "url": "https://github.com/IhsanKhaliq/ascotraceR"
+  },
+  {
     "package": "ASMap",
     "url": "https://github.com/cran/ASMap"
   },
@@ -52,6 +56,10 @@
     "url": "https://github.com/jlisic/cdlTools"
   },
   {
+    "package": "cpgen",
+    "url": "https://github.com/cheuerde/cpgen"
+  },
+  {
     "package": "CropScapeR",
     "url": "https://github.com/cbw1243/CropScapeR"
   },
@@ -70,10 +78,6 @@
   {
     "package": "DSSAT",
     "url": "https://github.com/palderman/DSSAT"
-  },
-  {
-    "package": "emmeans",
-    "url": "https://github.com/rvlenth/emmeans"
   },
   {
     "package": "EnvRtype",
@@ -144,10 +148,6 @@
     "url": "https://github.com/OnofriAndreaPG/lmDiallel"
   },
   {
-    "package": "lme4",
-    "url": "https://github.com/lme4/lme4"
-  },
-  {
     "package": "lme4qtl",
     "url": "https://github.com/variani/lme4qtl"
   },
@@ -170,10 +170,6 @@
   {
     "package": "meteor",
     "url": "https://github.com/cropmodels/meteor"
-  },
-  {
-    "package": "nlme",
-    "url": "https://github.com/cran/nlme"
   },
   {
     "package": "nlraa",
@@ -292,6 +288,10 @@
     "url": "https://github.com/alenxav/SoyNAM"
   },
   {
+    "package": "SpATS",
+    "url": "https://CRAN.R-project.org/package=SpATS"
+  },
+  {
     "package": "st4gi",
     "url": "https://github.com/reyzaguirre/st4gi"
   },
@@ -330,17 +330,5 @@
   {
     "package": "usdampr",
     "url": "https://github.com/cbw1243/usdampr"
-  },
-  {
-    "package": "cpgen",
-    "url": "https://github.com/cheuerde/cpgen"
-  },
-  {
-    "package": "ascoTraceR",
-    "url": "https://github.com/IhsanKhaliq/ascotraceR"
-  },
-  {
-    "package": "SpATS",
-    "url": "https://CRAN.R-project.org/package=SpATS"
   }
 ]
