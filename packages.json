@@ -330,5 +330,37 @@
   {
     "package": "usdampr",
     "url": "https://github.com/cbw1243/usdampr"
+  },
+  {
+    "package": "AlphaSimR",
+    "url": "https://github.com/gaynorr/AlphaSimR"
+  },
+  {
+    "package": "Xpolaris",
+    "url": "https://github.com/lhmrosso/XPolari"
+  },
+  {
+    "package": "soiltestcorr",
+    "url": "https://github.com/adriancorrendo/soiltestcorr/"
+  },
+  {
+    "package": "metrica",
+    "url": "https://github.com/adriancorrendo/metrica/"
+  },
+  {
+    "package": "landsepi",
+    "url": "https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi"
+  },
+  {
+    "package": "mvngGrAd",
+    "url": "https://github.com/cran/mvngGrAd"
+  },
+  {
+    "package": "ALUES",
+    "url": "https://github.com/alstat/ALUES/"
+  },
+  {
+    "package": "AgroReg",
+    "url": "https://github.com/cran/AgroReg"
   }
 ]
