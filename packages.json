@@ -362,5 +362,33 @@
   {
     "package": "AgroReg",
     "url": "https://github.com/cran/AgroReg"
+  },
+  {
+    "package": "MoBPS",
+    "url": "https://github.com/tpook92/mobps"
+  },
+  {
+    "package": "prism",
+    "url": "https://github.com/ropensci/prism"
+  },
+  {
+    "package": "SISINTAR",
+    "url": "https://github.com/INTA-Suelos/SISINTAR"
+  },
+  {
+    "package": "agromet",
+    "url": "https://github.com/AgRoMeteorologiaINTA/agromet"
+  },
+  {
+    "package": "ag5Tools",
+    "url": "https://github.com/agrdatasci/ag5Tools"
+  },
+  {
+    "package": "gosset",
+    "url": "https://github.com/agrdatasci/gosset"
+  },
+  {
+    "package": "ClimMobTools",
+    "url": "https://github.com/AgrDataSci/ClimMobTools"
   }
 ]
