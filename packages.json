@@ -1,7 +1,15 @@
 [
   {
+    "package": "ag5Tools",
+    "url": "https://github.com/agrdatasci/ag5Tools"
+  },
+  {
     "package": "AGHmatrix",
     "url": "https://github.com/rramadeu/AGHmatrix"
+  },
+  {
+    "package": "AGPRIS",
+    "url": "https://github.com/edoardoBaldoni/AGPRIS"
   },
   {
     "package": "agriCensData",
@@ -12,12 +20,52 @@
     "url": "https://github.com/myaseen208/agricolae"
   },
   {
+    "package": "agricolaeplotr",
+    "url": "https://github.com/jensharbers/agricolaeplotr"
+  },
+  {
     "package": "agridat",
     "url": "https://github.com/kwstat/agridat/"
   },
   {
+    "package": "agrifeatures",
+    "url": "https://github.com/cran/agrifeature"
+  },
+  {
     "package": "agriTutorial",
     "url": "https://github.com/myaseen208/agriTutorial"
+  },
+  {
+    "package": "agroclim",
+    "url": "https://github.com/cran/agroclim"
+  },
+  {
+    "package": "agromet",
+    "url": "https://github.com/AgRoMeteorologiaINTA/agromet"
+  },
+  {
+    "package": "AgroR",
+    "url": "https://github.com/cran/AgroR"
+  },
+  {
+    "package": "AgroReg",
+    "url": "https://github.com/cran/AgroReg"
+  },
+  {
+    "package": "agrostab",
+    "url": "https://github.com/cran/agrostab"
+  },
+  {
+    "package": "AgroTech",
+    "url": "https://github.com/cran/AgroTech"
+  },
+  {
+    "package": "AlphaSimR",
+    "url": "https://github.com/gaynorr/AlphaSimR"
+  },
+  {
+    "package": "ALUES",
+    "url": "https://github.com/alstat/ALUES/"
   },
   {
     "package": "apsimx",
@@ -28,7 +76,7 @@
     "url": "https://github.com/ncss-tech/aqp"
   },
   {
-    "package": "ascoTraceR",
+    "package": "ascotraceR",
     "url": "https://github.com/IhsanKhaliq/ascotraceR"
   },
   {
@@ -48,6 +96,10 @@
     "url": "https://github.com/gdlc/BGLR-R"
   },
   {
+    "package": "biotools",
+    "url": "https://github.com/arsilva87/biotools"
+  },
+  {
     "package": "breedR",
     "url": "https://github.com/famuvie/breedR"
   },
@@ -56,12 +108,36 @@
     "url": "https://github.com/jlisic/cdlTools"
   },
   {
+    "package": "ClimMobTools",
+    "url": "https://github.com/AgrDataSci/ClimMobTools"
+  },
+  {
     "package": "cpgen",
     "url": "https://github.com/cheuerde/cpgen"
   },
   {
+    "package": "cropdatape",
+    "url": "https://github.com/omarbenites/cropdatape"
+  },
+  {
+    "package": "cropDemand",
+    "url": "https://github.com/FilgueirasR/cropDemand"
+  },
+  {
+    "package": "CropDetecR",
+    "url": "https://github.com/niconaut/CropDetectR"
+  },
+  {
+    "package": "cropgrowdays",
+    "url": "https://CRAN.R-project.org/package=cropgrowdays t"
+  },
+  {
     "package": "CropScapeR",
     "url": "https://github.com/cbw1243/CropScapeR"
+  },
+  {
+    "package": "cropZoning",
+    "url": "https://github.com/FilgueirasR/cropZoning"
   },
   {
     "package": "desplot",
@@ -78,6 +154,10 @@
   {
     "package": "DSSAT",
     "url": "https://github.com/palderman/DSSAT"
+  },
+  {
+    "package": "eemdTDNN",
+    "url": "https://github.com/cran/eemdTDNN"
   },
   {
     "package": "EnvRtype",
@@ -112,6 +192,10 @@
     "url": "https://github.com/mbask/fertplan"
   },
   {
+    "package": "frost",
+    "url": "https://github.com/anadiedrichs/frost"
+  },
+  {
     "package": "FW",
     "url": "https://github.com/lian0090/FW/"
   },
@@ -122,6 +206,14 @@
   {
     "package": "ggfertilizer",
     "url": "https://github.com/wenlong-liu/ggfertilizer"
+  },
+  {
+    "package": "gosset",
+    "url": "https://github.com/agrdatasci/gosset"
+  },
+  {
+    "package": "grapesAgri1",
+    "url": "https://github.com/pratheesh3780/grapesAgri1"
   },
   {
     "package": "GWASpoly",
@@ -138,6 +230,10 @@
   {
     "package": "INLA",
     "url": "https://github.com/inbo/INLA"
+  },
+  {
+    "package": "landsepi",
+    "url": "https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi"
   },
   {
     "package": "LinkageMapView",
@@ -170,6 +266,18 @@
   {
     "package": "meteor",
     "url": "https://github.com/cropmodels/meteor"
+  },
+  {
+    "package": "metrica",
+    "url": "https://github.com/adriancorrendo/metrica/"
+  },
+  {
+    "package": "MoBPS",
+    "url": "https://github.com/tpook92/mobps"
+  },
+  {
+    "package": "mvngGrAd",
+    "url": "https://github.com/cran/mvngGrAd"
   },
   {
     "package": "nlraa",
@@ -208,6 +316,10 @@
     "url": "https://github.com/grunwaldlab/poppr/"
   },
   {
+    "package": "prism",
+    "url": "https://github.com/ropensci/prism"
+  },
+  {
     "package": "PROSPER",
     "url": "http://github.com/cran/PROSPER"
   },
@@ -236,6 +348,10 @@
     "url": "https://github.com/cropmodels/Recocrop"
   },
   {
+    "package": "resevol",
+    "url": "https://github.com/bradduthie/resevol"
+  },
+  {
     "package": "rMVP",
     "url": "https://github.com/xiaolei-lab/rMVP"
   },
@@ -246,6 +362,10 @@
   {
     "package": "rnoaa",
     "url": "https://github.com/ropensci/rnoaa"
+  },
+  {
+    "package": "rPAex",
+    "url": "https://github.com/cran/rPAex"
   },
   {
     "package": "Rquefts",
@@ -272,12 +392,24 @@
     "url": "https://github.com/samuelbfernandes/simplePHENOTYPES"
   },
   {
+    "package": "SISINTAR",
+    "url": "https://github.com/INTA-Suelos/SISINTAR"
+  },
+  {
+    "package": "soilassessment<ca>",
+    "url": "https://github.com/cran/soilassessment"
+  },
+  {
     "package": "soilDB",
     "url": "https://github.com/ncss-tech/soilDB/"
   },
   {
     "package": "SoilTaxonomy",
     "url": "https://github.com/ncss-tech/SoilTaxonomy"
+  },
+  {
+    "package": "soiltestcorr",
+    "url": "https://github.com/adriancorrendo/soiltestcorr/"
   },
   {
     "package": "sommer",
@@ -324,6 +456,10 @@
     "url": "https://github.com/Biometris/statgenSTA"
   },
   {
+    "package": "stlELM",
+    "url": "https://github.com/cran/stlELM"
+  },
+  {
     "package": "tidyUSDA",
     "url": "https://github.com/bradlindblad/tidyUSDA/"
   },
@@ -332,63 +468,27 @@
     "url": "https://github.com/cbw1243/usdampr"
   },
   {
-    "package": "AlphaSimR",
-    "url": "https://github.com/gaynorr/AlphaSimR"
+    "package": "vmdTDNN",
+    "url": "https://github.com/cran/vmdTDNN"
   },
   {
     "package": "Xpolaris",
     "url": "https://github.com/lhmrosso/XPolari"
   },
   {
-    "package": "soiltestcorr",
-    "url": "https://github.com/adriancorrendo/soiltestcorr/"
+    "package": "Evapotranspiration",
+    "url": "https://github.com/cran/Evapotranspiration"
   },
   {
-    "package": "metrica",
-    "url": "https://github.com/adriancorrendo/metrica/"
+    "package": "KenSyn",
+    "url": "https://github.com/cran/KenSyn"
   },
   {
-    "package": "landsepi",
-    "url": "https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi"
+    "package": "ZeBook",
+    "url": "https://github.com/cran/ZeBook"
   },
   {
-    "package": "mvngGrAd",
-    "url": "https://github.com/cran/mvngGrAd"
-  },
-  {
-    "package": "ALUES",
-    "url": "https://github.com/alstat/ALUES/"
-  },
-  {
-    "package": "AgroReg",
-    "url": "https://github.com/cran/AgroReg"
-  },
-  {
-    "package": "MoBPS",
-    "url": "https://github.com/tpook92/mobps"
-  },
-  {
-    "package": "prism",
-    "url": "https://github.com/ropensci/prism"
-  },
-  {
-    "package": "SISINTAR",
-    "url": "https://github.com/INTA-Suelos/SISINTAR"
-  },
-  {
-    "package": "agromet",
-    "url": "https://github.com/AgRoMeteorologiaINTA/agromet"
-  },
-  {
-    "package": "ag5Tools",
-    "url": "https://github.com/agrdatasci/ag5Tools"
-  },
-  {
-    "package": "gosset",
-    "url": "https://github.com/agrdatasci/gosset"
-  },
-  {
-    "package": "ClimMobTools",
-    "url": "https://github.com/AgrDataSci/ClimMobTools"
+    "package": "Bsagri",
+    "url": "https://github.com/cran/BSagri"
   }
 ]
