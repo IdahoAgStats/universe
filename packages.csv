@@ -26,6 +26,7 @@ BGLR,https://github.com/gdlc/BGLR-R,https://github.com/gdlc/BGLR-R,,TRUE,
 binnednp,,,,FALSE,not on CRAN or github or anywhere I can find
 biotools,https://github.com/arsilva87/biotools,https://arsilva87.github.io/biotools/,,TRUE,https://CRAN.R-project.org/package=biotools
 breedR,https://github.com/famuvie/breedR, https://github.com/famuvie/breedR,,TRUE,
+Bsagri,https://github.com/cran/BSagri,,,TRUE,https://CRAN.R-project.org/package=BSagri
 cdlTools,https://github.com/jlisic/cdlTools,https://github.com/jlisic/cdlTools,,TRUE,
 ClimMobTools,https://github.com/AgrDataSci/ClimMobTools,https://agrdatasci.github.io/ClimMobTools/,,TRUE,
 cpgen,https://github.com/cheuerde/cpgen,,,TRUE,
@@ -43,6 +44,7 @@ eemdTDNN,https://github.com/cran/eemdTDNN,https://CRAN.R-project.org/package=eem
 EnvRtype,https://github.com/allogamous/EnvRtype,https://allogamous.github.io/EnvRtype/,,TRUE,
 epifitter,https://github.com/AlvesKS/epifitter,https://alvesks.github.io/epifitter/,,TRUE,
 epiphy,https://github.com/chgigot/epiphy,https://chgigot.github.io/epiphy/,,TRUE,
+Evapotranspiration,https://github.com/cran/Evapotranspiration,,,TRUE,https://CRAN.R-project.org/package=Evapotranspiration t
 fabio, https://github.com/fineprint-global/fabio, https://github.com/fineprint-global/fabio,,TRUE,
 faobulk,https://github.com/muuankarski/faobulk,https://github.com/muuankarski/faobulk,,TRUE,
 FAOSTAT,https://github.com/cran/FAOSTAT,https://gitlab.com/paulrougieux/faostatpackage,,TRUE,
@@ -59,6 +61,7 @@ hagis,https://github.com/openplantpathology/hagis,https://openplantpathology.git
 hnp,http://github.com/cran/hnp, https://cran.r-project.org/package=hnp ,,FALSE,
 IBCF.MTME,https://github.com/frahik/IBCF.MTME,https://github.com/frahik/IBCF.MTME,,TRUE,
 INLA,https://github.com/inbo/INLA,https://www.r-inla.org/home,,TRUE,
+KenSyn,https://github.com/cran/KenSyn,,http://www.modelia.org,TRUE,https://CRAN.R-project.org/package=KenSyn t
 landsepi,https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi,https://csiro-inra.pages.biosp.inrae.fr/landsepi/,,TRUE,
 LinkageMapView,https://github.com/bio-services/LinkageMapView,https://CRAN.R-project.org/package=LinkageMapView,,TRUE,
 lmDiallel,https://github.com/OnofriAndreaPG/lmDiallel,https://CRAN.R-project.org/package=lmDiallel,,TRUE,
@@ -70,7 +73,7 @@ MCMCglmm,https://github.com/jarrodhadfield/MCMCglmm, https://CRAN.R-project.org/
 MegaLMM, https://github.com/deruncie/MegaLMM/, https://github.com/deruncie/MegaLMM/,,TRUE,
 meteor,https://github.com/cropmodels/meteor,https://CRAN.R-project.org/package=meteor,,TRUE,
 metrica,https://github.com/adriancorrendo/metrica/,https://adriancorrendo.github.io/metrica/,,TRUE,
-MoBPS,https://github.com/tpook92/mobps,https://www.mobps.de/,,TRUE,
+MoBPS,https://github.com/tpook92/MoBPS/tree/master/pkg,https://www.mobps.de/,,TRUE,
 mvngGrAd,https://github.com/cran/mvngGrAd,https://cran.r-project.org/package=mvngGrAd,,TRUE,
 nlraa,https://github.com/femiguez/nlraa,https://femiguez.github.io/nlraa-docs/index.html,,TRUE,
 NutrienTrackeR,https://github.com/AndreaRMICL/NutrienTrackeR,https://CRAN.R-project.org/package=NutrienTrackeR,,TRUE,
@@ -126,7 +129,4 @@ tidyUSDA,https://github.com/bradlindblad/tidyUSDA/,https://bradlindblad.github.i
 usdampr,https://github.com/cbw1243/usdampr, https://CRAN.R-project.org/package=usdampr,,TRUE,
 vmdTDNN,https://github.com/cran/vmdTDNN,,,TRUE,
 Xpolaris,https://github.com/lhmrosso/XPolari,,,TRUE,
-Evapotranspiration,https://github.com/cran/Evapotranspiration,,,TRUE,https://CRAN.R-project.org/package=Evapotranspiration t
-KenSyn,https://github.com/cran/KenSyn,,http://www.modelia.org,TRUE,https://CRAN.R-project.org/package=KenSyn t
 ZeBook,https://github.com/cran/ZeBook,,,TRUE,https://CRAN.R-project.org/package=ZeBook
-Bsagri,https://github.com/cran/BSagri,,,TRUE,https://CRAN.R-project.org/package=BSagri

@@ -104,6 +104,10 @@
     "url": "https://github.com/famuvie/breedR"
   },
   {
+    "package": "Bsagri",
+    "url": "https://github.com/cran/BSagri"
+  },
+  {
     "package": "cdlTools",
     "url": "https://github.com/jlisic/cdlTools"
   },
@@ -172,6 +176,10 @@
     "url": "https://github.com/chgigot/epiphy"
   },
   {
+    "package": "Evapotranspiration",
+    "url": "https://github.com/cran/Evapotranspiration"
+  },
+  {
     "package": "fabio",
     "url": "https://github.com/fineprint-global/fabio"
   },
@@ -232,6 +240,10 @@
     "url": "https://github.com/inbo/INLA"
   },
   {
+    "package": "KenSyn",
+    "url": "https://github.com/cran/KenSyn"
+  },
+  {
     "package": "landsepi",
     "url": "https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi"
   },
@@ -273,7 +285,7 @@
   },
   {
     "package": "MoBPS",
-    "url": "https://github.com/tpook92/mobps"
+    "url": "https://github.com/tpook92/MoBPS/tree/master/pkg"
   },
   {
     "package": "mvngGrAd",
@@ -476,19 +488,7 @@
     "url": "https://github.com/lhmrosso/XPolari"
   },
   {
-    "package": "Evapotranspiration",
-    "url": "https://github.com/cran/Evapotranspiration"
-  },
-  {
-    "package": "KenSyn",
-    "url": "https://github.com/cran/KenSyn"
-  },
-  {
     "package": "ZeBook",
     "url": "https://github.com/cran/ZeBook"
-  },
-  {
-    "package": "Bsagri",
-    "url": "https://github.com/cran/BSagri"
   }
 ]
