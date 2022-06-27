@@ -11,5 +11,5 @@ pkg_no_cran <- filter(packages, !grepl("github.com/cran", url))
 
 
 #package_json <- toJSON(packages)
-write_json(packages, "packages.json", pretty = TRUE)
+write_json(pkg_no_cran, "packages.json", pretty = TRUE)
 
