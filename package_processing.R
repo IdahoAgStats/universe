@@ -9,7 +9,11 @@ packages <- read.csv("packages.csv") %>% filter(include == "TRUE") %>%
 
 pkg_no_cran <- filter(packages, !grepl("github.com/cran", url))
 
+if(nrow(pkg_no_cran) > 100) {
+  pkg100 <- slice_sample(pkg_no_cran, n=100, replace = FALSE)
+  } else {pkg100 <- pkg_no_cran}
+
 
 #package_json <- toJSON(packages)
-write_json(pkg_no_cran, "packages.json", pretty = TRUE)
+write_json(pkg100, "packages.json", pretty = TRUE)
 

@@ -124,10 +124,6 @@
     "url": "https://github.com/jendelman/diaQTL"
   },
   {
-    "package": "drc",
-    "url": "https://github.com/DoseResponse/drc"
-  },
-  {
     "package": "DSSAT",
     "url": "https://github.com/palderman/DSSAT"
   },
@@ -142,10 +138,6 @@
   {
     "package": "epiphy",
     "url": "https://github.com/chgigot/epiphy"
-  },
-  {
-    "package": "fabio",
-    "url": "https://github.com/fineprint-global/fabio"
   },
   {
     "package": "faobulk",
@@ -196,10 +188,6 @@
     "url": "https://github.com/frahik/IBCF.MTME"
   },
   {
-    "package": "INLA",
-    "url": "https://github.com/inbo/INLA"
-  },
-  {
     "package": "landsepi",
     "url": "https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi"
   },
@@ -222,10 +210,6 @@
   {
     "package": "MapRtools",
     "url": "https://github.com/jendelman/MapRtools"
-  },
-  {
-    "package": "MCMCglmm",
-    "url": "https://github.com/jarrodhadfield/MCMCglmm"
   },
   {
     "package": "MegaLMM",
@@ -274,10 +258,6 @@
   {
     "package": "poppr",
     "url": "https://github.com/grunwaldlab/poppr/"
-  },
-  {
-    "package": "prism",
-    "url": "https://github.com/ropensci/prism"
   },
   {
     "package": "qgg",
