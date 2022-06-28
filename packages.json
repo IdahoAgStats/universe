@@ -1,5 +1,9 @@
 [
   {
+    "package": "acdcR",
+    "url": "https://github.com/ysd2004/acdcR"
+  },
+  {
     "package": "ag5Tools",
     "url": "https://github.com/agrdatasci/ag5Tools"
   },
@@ -252,6 +256,14 @@
     "url": "https://github.com/augusto-garcia/onemap"
   },
   {
+    "package": "pedmod",
+    "url": "https://github.com/boennecd/pedmod"
+  },
+  {
+    "package": "pedometrics",
+    "url": "https://github.com/Laboratorio-de-Pedometria/pedometrics-package"
+  },
+  {
     "package": "phenorice",
     "url": "https://github.com/cropmodels/phenorice"
   },
@@ -266,6 +278,10 @@
   {
     "package": "prism",
     "url": "https://github.com/ropensci/prism"
+  },
+  {
+    "package": "qgg",
+    "url": "https://github.com/psoerensen/qgg"
   },
   {
     "package": "qtl",
@@ -298,10 +314,6 @@
   {
     "package": "rnassqs",
     "url": "https://github.com/ropensci/rnassqs/"
-  },
-  {
-    "package": "rnoaa",
-    "url": "https://github.com/ropensci/rnoaa"
   },
   {
     "package": "Rquefts",

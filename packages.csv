@@ -1,4 +1,5 @@
 package,github,url,subdir,include,notes
+acdcR,https://github.com/ysd2004/acdcR,https://CRAN.R-project.org/package=acdcR,,TRUE,
 ag5Tools,https://github.com/agrdatasci/ag5Tools,https://agrdatasci.github.io/ag5Tools/,,TRUE,
 AGHmatrix,https://github.com/rramadeu/AGHmatrix,https://github.com/rramadeu/AGHmatrix,,TRUE,
 AGPRIS,https://github.com/edoardoBaldoni/AGPRIS,https://CRAN.R-project.org/package=AGPRIS,,TRUE,
@@ -13,7 +14,7 @@ agromet,https://github.com/AgRoMeteorologiaINTA/agromet,,,TRUE,
 AgroR,https://github.com/cran/AgroR,https://agronomiar.github.io/AgroR_package/index.html,,TRUE,R package missing from author's repo
 AgroReg,https://github.com/cran/AgroReg,,,TRUE,
 agrostab,https://github.com/cran/agrostab,https://CRAN.R-project.org/package=agrostab,,TRUE,
-AgroTech,https://github.com/cran/AgroTech,https://CRAN.R-project.org/package=AgroTech,,TRUE,add to CTV
+AgroTech,https://github.com/cran/AgroTech,https://CRAN.R-project.org/package=AgroTech,,TRUE,
 AlphaSimR,https://github.com/gaynorr/AlphaSimR,https://cran.r-project.org/package=AlphaSimR,,TRUE,
 ALUES,https://github.com/alstat/ALUES/,https://alstat.github.io/ALUES/,,TRUE,
 apsimx,https://github.com/femiguez/apsimx,https://femiguez.github.io/apsimx-docs/,,TRUE,
@@ -24,18 +25,18 @@ asremlPlus,https://github.com/briencj/asremlPlus,https://briencj.github.io/asrem
 bayesammi,https://github.com/myaseen208/bayesammi,https://myaseen208.com/bayesammi/,,TRUE,
 BGLR,https://github.com/gdlc/BGLR-R,https://github.com/gdlc/BGLR-R,,TRUE,
 binnednp,,,,FALSE,not on CRAN or github or anywhere I can find
-biotools,https://github.com/arsilva87/biotools,https://arsilva87.github.io/biotools/,,TRUE,https://CRAN.R-project.org/package=biotools
+biotools,https://github.com/arsilva87/biotools,https://arsilva87.github.io/biotools/,,TRUE,
 breedR,https://github.com/famuvie/breedR, https://github.com/famuvie/breedR,,TRUE,
-Bsagri,https://github.com/cran/BSagri,,,TRUE,https://CRAN.R-project.org/package=BSagri
+Bsagri,https://github.com/cran/BSagri,https://CRAN.R-project.org/package=BSagri,,FALSE,package function not really doing much for ag
 cdlTools,https://github.com/jlisic/cdlTools,https://github.com/jlisic/cdlTools,,TRUE,
 ClimMobTools,https://github.com/AgrDataSci/ClimMobTools,https://agrdatasci.github.io/ClimMobTools/,,TRUE,
 cpgen,https://github.com/cheuerde/cpgen,,,TRUE,
-cropdatape,https://github.com/omarbenites/cropdatape,https://omarbenites.github.io/cropdatape/,,TRUE,https://CRAN.R-project.org/package=cropdatape
-cropDemand,https://github.com/FilgueirasR/cropDemand,,,TRUE,https://CRAN.R-project.org/package=cropDemand
-CropDetectR,https://github.com/niconaut/CropDetectR,,,TRUE,https://CRAN.R-project.org/package=CropDetectR t
-cropgrowdays,https://gitlab.com/petebaker/cropgrowdays/,,,TRUE,https://CRAN.R-project.org/package=cropgrowdays t
+cropdatape,https://github.com/omarbenites/cropdatape,https://omarbenites.github.io/cropdatape/,,TRUE,
+cropDemand,https://github.com/FilgueirasR/cropDemand,https://CRAN.R-project.org/package=cropDemand,,TRUE,
+CropDetectR,https://github.com/niconaut/CropDetectR,https://CRAN.R-project.org/package=CropDetectR,,TRUE,
+cropgrowdays,https://gitlab.com/petebaker/cropgrowdays/,https://CRAN.R-project.org/package=cropgrowdays,,TRUE,
 CropScapeR,https://github.com/cbw1243/CropScapeR,https://github.com/cbw1243/CropScapeR,,TRUE,
-cropZoning,https://github.com/FilgueirasR/cropZoning,,,TRUE,https://CRAN.R-project.org/package=cropZoning
+cropZoning,https://github.com/FilgueirasR/cropZoning,https://CRAN.R-project.org/package=cropZoning,,TRUE,
 desplot,https://github.com/kwstat/desplot,https://kwstat.github.io/desplot/,,TRUE,
 diaQTL,https://github.com/jendelman/diaQTL,https://github.com/jendelman/diaQTL,,TRUE,
 drc,https://github.com/DoseResponse/drc,https://doseresponse.github.io/drc/,,TRUE,
@@ -44,7 +45,7 @@ eemdTDNN,https://github.com/cran/eemdTDNN,https://CRAN.R-project.org/package=eem
 EnvRtype,https://github.com/allogamous/EnvRtype,https://allogamous.github.io/EnvRtype/,,TRUE,
 epifitter,https://github.com/AlvesKS/epifitter,https://alvesks.github.io/epifitter/,,TRUE,
 epiphy,https://github.com/chgigot/epiphy,https://chgigot.github.io/epiphy/,,TRUE,
-Evapotranspiration,https://github.com/cran/Evapotranspiration,,,TRUE,https://CRAN.R-project.org/package=Evapotranspiration t
+Evapotranspiration,https://github.com/cran/Evapotranspiration,https://CRAN.R-project.org/package=Evapotranspiration,,TRUE,
 fabio, https://github.com/fineprint-global/fabio, https://github.com/fineprint-global/fabio,,TRUE,
 faobulk,https://github.com/muuankarski/faobulk,https://github.com/muuankarski/faobulk,,TRUE,
 FAOSTAT,https://github.com/cran/FAOSTAT,https://gitlab.com/paulrougieux/faostatpackage,,TRUE,
@@ -55,13 +56,13 @@ FW,https://github.com/lian0090/FW/,,,TRUE,
 gge,https://github.com/kwstat/gge,https://kwstat.github.io/gge,,TRUE,
 ggfertilizer, https://github.com/wenlong-liu/ggfertilizer,https://wenlong-liu.github.io/ggfertilizer/,,TRUE,
 gosset,https://github.com/agrdatasci/gosset,https://agrdatasci.github.io/gosset/,,TRUE,
-grapesAgri1,https://github.com/pratheesh3780/grapesAgri1,https://www.kaugrapes.com/,,TRUE,https://cran.r-project.org/package=grapesAgri1
+grapesAgri1,https://github.com/pratheesh3780/grapesAgri1,https://www.kaugrapes.com/,,TRUE,
 GWASpoly,https://github.com/jendelman/GWASpoly,https://github.com/jendelman/GWASpoly,,TRUE,
 hagis,https://github.com/openplantpathology/hagis,https://openplantpathology.github.io/hagis/,,TRUE,
 hnp,http://github.com/cran/hnp, https://cran.r-project.org/package=hnp ,,FALSE,
 IBCF.MTME,https://github.com/frahik/IBCF.MTME,https://github.com/frahik/IBCF.MTME,,TRUE,
 INLA,https://github.com/inbo/INLA,https://www.r-inla.org/home,,TRUE,
-KenSyn,https://github.com/cran/KenSyn,,http://www.modelia.org,TRUE,https://CRAN.R-project.org/package=KenSyn t
+KenSyn,https://github.com/cran/KenSyn,https://CRAN.R-project.org/package=KenSyn,http://www.modelia.org,TRUE,
 landsepi,https://gitlab.paca.inrae.fr/CSIRO-INRA/landsepi,https://csiro-inra.pages.biosp.inrae.fr/landsepi/,,TRUE,
 LinkageMapView,https://github.com/bio-services/LinkageMapView,https://CRAN.R-project.org/package=LinkageMapView,,TRUE,
 lmDiallel,https://github.com/OnofriAndreaPG/lmDiallel,https://CRAN.R-project.org/package=lmDiallel,,TRUE,
@@ -73,13 +74,17 @@ MCMCglmm,https://github.com/jarrodhadfield/MCMCglmm, https://CRAN.R-project.org/
 MegaLMM, https://github.com/deruncie/MegaLMM/, https://github.com/deruncie/MegaLMM/,,TRUE,
 meteor,https://github.com/cropmodels/meteor,https://CRAN.R-project.org/package=meteor,,TRUE,
 metrica,https://github.com/adriancorrendo/metrica/,https://adriancorrendo.github.io/metrica/,,TRUE,
+MissingPlotRBD,https://github.com/cran/MissingPlotRBD,,https://CRAN.R-project.org/package=MissingPlotRBD,FALSE,this package has exactly one function
 MoBPS,https://github.com/tpook92/MoBPS/tree/master/pkg,https://www.mobps.de/,,TRUE,
 mvngGrAd,https://github.com/cran/mvngGrAd,https://cran.r-project.org/package=mvngGrAd,,TRUE,
 nlraa,https://github.com/femiguez/nlraa,https://femiguez.github.io/nlraa-docs/index.html,,TRUE,
 NutrienTrackeR,https://github.com/AndreaRMICL/NutrienTrackeR,https://CRAN.R-project.org/package=NutrienTrackeR,,TRUE,
 onemap,https://github.com/augusto-garcia/onemap,http://augustogarcia.me/onemap/,,TRUE,
-OSDRegistry,https://github.com/ncss-tech/OSDRegistry,https://github.com/ncss-tech/OSDRegistry,,FALSE,add to ctv? Ask package authors
+OSDRegistry,https://github.com/ncss-tech/OSDRegistry,https://github.com/ncss-tech/OSDRegistry,,FALSE,
+pedigree,https://github.com/cran/pedigree,https://CRAN.R-project.org/package=pedigree,,TRUE,
 pedigreemm,https://github.com/cran/pedigreemm, https://CRAN.R-project.org/package=pedigreemm,https://github.com/r-forge/pedigreemm,TRUE,need to resolve for svn
+pedmod,https://github.com/boennecd/pedmod,https://CRAN.R-project.org/package=pedmod,,TRUE,
+pedometrics,https://github.com/Laboratorio-de-Pedometria/pedometrics-package,,https://CRAN.R-project.org/package=pedometrics,TRUE,
 phenorice,https://github.com/cropmodels/phenorice,https://github.com/cropmodels/phenorice,,TRUE,
 phenoriceR,https://github.com/lbusett/phenoriceR,https://lbusett.github.io/phenoriceR/index.html,,FALSE,removed until issue with 'sprawl' is fixed
 plantbreeding,https://github.com/r-forge/plantbreeding,,,FALSE,
@@ -89,17 +94,18 @@ polyqtlR,http://github.com/cran/polyqtlR, https://CRAN.R-project.org/package=pol
 poppr,https://github.com/grunwaldlab/poppr/,https://grunwaldlab.github.io/poppr/,,TRUE,
 prism,https://github.com/ropensci/prism,https://docs.ropensci.org/prism/,,TRUE,
 PROSPER,http://github.com/cran/PROSPER, https://CRAN.R-project.org/package=PROSPER ,,TRUE,
+qgg,https://github.com/psoerensen/qgg,http://psoerensen.github.io/qgg/index.html,,TRUE,
 qgtools,http://github.com/cran/qgtools, https://CRAN.R-project.org/package=qgtools,,TRUE,
 qtl,https://github.com/kbroman/qtl,https://rqtl.org/,,TRUE,
 qtlpoly,https://github.com/gabrielgesteira/QTLpoly,https://gabrielgesteira.github.io/QTLpoly/,,TRUE,
+QTLRel,https://github.com/cran/QTLRel,,https://CRAN.R-project.org/package=QTLRel,TRUE,
 rapsimng,https://github.com/byzheng/rapsimng,https://rapsimng.bangyou.me/,,TRUE,
 rarms,https://github.com/cbw1243/rarms,https://github.com/cbw1243/rarms,,TRUE,
 Recocrop,https://github.com/cropmodels/Recocrop,https://CRAN.R-project.org/package=Recocrop ,,TRUE,
-resevol,https://github.com/bradduthie/resevol,https://bradduthie.github.io/resevol/,,TRUE,https://CRAN.R-project.org/package=resevol
+resevol,https://github.com/bradduthie/resevol,https://bradduthie.github.io/resevol/,,TRUE,
 rMVP,https://github.com/xiaolei-lab/rMVP,https://github.com/xiaolei-lab/rMVP,,TRUE,
 rnassqs,https://github.com/ropensci/rnassqs/,https://docs.ropensci.org/rnassqs/,,TRUE,
-rnoaa,https://github.com/ropensci/rnoaa,https://docs.ropensci.org/rnoaa/,,TRUE,
-rPAex,https://github.com/cran/rPAex,,https://CRAN.R-project.org/package=rPAex t,TRUE,add to CTV
+rPAex,https://github.com/cran/rPAex,https://CRAN.R-project.org/package=rPAex,https://CRAN.R-project.org/package=rPAex t,TRUE,
 Rquefts,https://github.com/cropmodels/Rquefts,https://CRAN.R-project.org/package=Rquefts,,TRUE,
 rrBLUP,http://github.com/cran/rrBLUP, https://CRAN.R-project.org/package=rrBLUP,,TRUE,
 rusda,https://github.com/ropensci/rusda,https://docs.ropensci.org/rusda/,,TRUE,
@@ -107,10 +113,10 @@ Rwofost,https://github.com/cropmodels/Rwofost,https://CRAN.R-project.org/package
 sharpshootR,https://github.com/ncss-tech/sharpshootR,http://ncss-tech.github.io/sharpshootR/,,TRUE,
 simplePHENOTYPES, https://github.com/samuelbfernandes/simplePHENOTYPES, https://github.com/samuelbfernandes/simplePHENOTYPES,,TRUE,
 SISINTAR,https://github.com/INTA-Suelos/SISINTAR,,,TRUE,
-soilassessment ,https://github.com/cran/soilassessment,https://CRAN.R-project.org/package=soilassessment,,TRUE,
+soilassessment,https://github.com/cran/soilassessment,https://CRAN.R-project.org/package=soilassessment,,TRUE,
 soilDB,https://github.com/ncss-tech/soilDB/,http://ncss-tech.github.io/soilDB/,,TRUE,
-SoilKnowledgeBase,https://github.com/ncss-tech/SoilKnowledgeBase,https://github.com/ncss-tech/SoilKnowledgeBase,,FALSE,add to ctv? Ask package authors
-soilReports,https://github.com/ncss-tech/soilReports,https://ncss-tech.github.io/soilReports/,,FALSE,add to ctv? Ask package authors
+SoilKnowledgeBase,https://github.com/ncss-tech/SoilKnowledgeBase,https://github.com/ncss-tech/SoilKnowledgeBase,,FALSE,
+soilReports,https://github.com/ncss-tech/soilReports,https://ncss-tech.github.io/soilReports/,,FALSE,
 SoilTaxonomy,https://github.com/ncss-tech/SoilTaxonomy,http://ncss-tech.github.io/SoilTaxonomy/,,TRUE,
 soiltestcorr,https://github.com/adriancorrendo/soiltestcorr/,https://adriancorrendo.github.io/soiltestcorr/,,TRUE,
 sommer,https://github.com/covaruber/sommer,https://github.com/covaruber/sommer,,TRUE,
@@ -129,4 +135,4 @@ tidyUSDA,https://github.com/bradlindblad/tidyUSDA/,https://bradlindblad.github.i
 usdampr,https://github.com/cbw1243/usdampr, https://CRAN.R-project.org/package=usdampr,,TRUE,
 vmdTDNN,https://github.com/cran/vmdTDNN,,,TRUE,
 Xpolaris,https://github.com/lhmrosso/XPolari,,,TRUE,
-ZeBook,https://github.com/cran/ZeBook,,,TRUE,https://CRAN.R-project.org/package=ZeBook
+ZeBook,https://github.com/cran/ZeBook,https://CRAN.R-project.org/package=ZeBook,,TRUE,
