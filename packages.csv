@@ -141,7 +141,7 @@ SoilTexture,https://github.com/julienmoeys/soiltexture/pkg/soiltexture,https://c
 soilwater,https://github.com/ecor/soilwater,https://CRAN.R-project.org/package=soilwater,FALSE,add to CTV
 ispd,https://github.com/cran/ispd,https://CRAN.R-project.org/package=ispd,FALSE,add to CTV
 isqg,https://github.com/cran/isqg,https://CRAN.R-project.org/package=isqg,FALSE,add to CTV
-LW1949,https://github.com/JVAdams/LW1949,https://CRAN.R-project.org/package=LW1949 t,FALSE,add to CTV
+LW1949,https://github.com/JVAdams/LW1949,https://CRAN.R-project.org/package=LW1949,FALSE,add to CTV
 mapsRinteractive,https://github.com/soilmapper/mapsRinteractive,https://CRAN.R-project.org/package=mapsRinteractive,FALSE,add to CTV
 LWFBrook90R,https://github.com/pschmidtwalter/LWFBrook90R,pschmidtwalter.github.io/lwfbrook90r/,FALSE,add to CTV; https://CRAN.R-project.org/package=LWFBrook90R 
 DMMF,https://github.com/kwanghun/DMMF,https://CRAN.R-project.org/package=DMMF,FALSE,add to CTV
@@ -168,3 +168,5 @@ TSDFGS,https://github.com/oumarkme/TSDFGS,https://CRAN.R-project.org/package=TSD
 variability,https://github.com/cran/variability,https://CRAN.R-project.org/package=variability,FALSE,add to CTV
 spsh,https://github.com/cran/spsh,https://CRAN.R-project.org/package=spsh,FALSE,add to CTV
 WCM,https://github.com/cran/WCM,https://CRAN.R-project.org/package=WCM,FALSE,add to CTV
+rfieldclimate,https://github.com/basf/rfieldclimate,https://CRAN.R-project.org/package=rfieldclimate,FALSE,add to CTV
+rarable,https://github.com/basf/rarable,,FALSE,
