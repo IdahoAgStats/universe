@@ -134,19 +134,19 @@ usdampr,https://github.com/cbw1243/usdampr, https://CRAN.R-project.org/package=u
 vmdTDNN,https://github.com/cran/vmdTDNN,,TRUE,
 Xpolaris,https://github.com/lhmrosso/XPolari,,TRUE,
 ZeBook,https://github.com/cran/ZeBook,https://CRAN.R-project.org/package=ZeBook,TRUE,
-spFW,https://github.com/cran/spFW,https://CRAN.R-project.org/package=spFW,FALSE,add to CTV
-soilR,https://github.com/MPIBGC-TEE/SoilR-exp,https://CRAN.R-project.org/package=SoilR ,FALSE,add to CTV
-SoilTesting,https://github.com/cran/SoilTesting,https://CRAN.R-project.org/package=SoilTesting,FALSE,add to CTV
-SoilTexture,https://github.com/julienmoeys/soiltexture/pkg/soiltexture,https://cran.r-project.org/package=soiltexture,FALSE,add to CTV; I don't think this github link will work w/R-universe
-soilwater,https://github.com/ecor/soilwater,https://CRAN.R-project.org/package=soilwater,FALSE,add to CTV
-ispd,https://github.com/cran/ispd,https://CRAN.R-project.org/package=ispd,FALSE,add to CTV
-isqg,https://github.com/cran/isqg,https://CRAN.R-project.org/package=isqg,FALSE,add to CTV
-LW1949,https://github.com/JVAdams/LW1949,https://CRAN.R-project.org/package=LW1949,FALSE,add to CTV
-mapsRinteractive,https://github.com/soilmapper/mapsRinteractive,https://CRAN.R-project.org/package=mapsRinteractive,FALSE,add to CTV
-LWFBrook90R,https://github.com/pschmidtwalter/LWFBrook90R,pschmidtwalter.github.io/lwfbrook90r/,FALSE,add to CTV; https://CRAN.R-project.org/package=LWFBrook90R 
-DMMF,https://github.com/kwanghun/DMMF,https://CRAN.R-project.org/package=DMMF,FALSE,add to CTV
-febr,https://github.com/laboratorio-de-pedometria/febr-package/,https://CRAN.R-project.org/package=febr,FALSE,add to CTV
-mpspline2,https://github.com/obrl-soil/mpspline2,https://CRAN.R-project.org/package=mpspline2,FALSE,add to CTV
+spFW,https://github.com/cran/spFW,https://CRAN.R-project.org/package=spFW,TRUE,
+soilR,https://github.com/MPIBGC-TEE/SoilR-exp,https://CRAN.R-project.org/package=SoilR ,TRUE,
+SoilTesting,https://github.com/cran/SoilTesting,https://CRAN.R-project.org/package=SoilTesting,TRUE,
+SoilTexture,https://github.com/julienmoeys/soiltexture/tree/master/pkg/soiltexture,https://cran.r-project.org/package=soiltexture,TRUE,may not work with Universe
+soilwater,https://github.com/ecor/soilwater,https://CRAN.R-project.org/package=soilwater,TRUE,
+ispd,https://github.com/cran/ispd,https://CRAN.R-project.org/package=ispd,TRUE,
+isqg,https://github.com/cran/isqg,https://CRAN.R-project.org/package=isqg,TRUE,
+LW1949,https://github.com/JVAdams/LW1949,https://CRAN.R-project.org/package=LW1949,TRUE,
+mapsRinteractive,https://github.com/soilmapper/mapsRinteractive,https://CRAN.R-project.org/package=mapsRinteractive,TRUE,
+LWFBrook90R,https://github.com/pschmidtwalter/LWFBrook90R,pschmidtwalter.github.io/lwfbrook90r/,TRUE,
+DMMF,https://github.com/kwanghun/DMMF,https://CRAN.R-project.org/package=DMMF,TRUE,
+febr,https://github.com/laboratorio-de-pedometria/febr-package/,https://CRAN.R-project.org/package=febr,TRUE,
+mpspline2,https://github.com/obrl-soil/mpspline2,https://CRAN.R-project.org/package=mpspline2,TRUE,
 QI,https://github.com/cran/QI,https://CRAN.R-project.org/package=QI,FALSE,add to CTV
 smapr,https://github.com/ropensci/smapr,https://docs.ropensci.org/smapr/,FALSE,add to CTV? Check with soil collabs; https://CRAN.R-project.org/package=smapr
 sorcering,https://github.com/cran/sorcering,https://CRAN.R-project.org/package=sorcering,FALSE,add to CTV? Check with soil collabs;
