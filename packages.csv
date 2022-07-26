@@ -147,20 +147,19 @@ LWFBrook90R,https://github.com/pschmidtwalter/LWFBrook90R,pschmidtwalter.github.
 DMMF,https://github.com/kwanghun/DMMF,https://CRAN.R-project.org/package=DMMF,TRUE,
 febr,https://github.com/laboratorio-de-pedometria/febr-package/,https://CRAN.R-project.org/package=febr,TRUE,
 mpspline2,https://github.com/obrl-soil/mpspline2,https://CRAN.R-project.org/package=mpspline2,TRUE,
-QI,https://github.com/cran/QI,https://CRAN.R-project.org/package=QI,FALSE,add to CTV
-smapr,https://github.com/ropensci/smapr,https://docs.ropensci.org/smapr/,FALSE,add to CTV? Check with soil collabs; https://CRAN.R-project.org/package=smapr
-sorcering,https://github.com/cran/sorcering,https://CRAN.R-project.org/package=sorcering,FALSE,add to CTV? Check with soil collabs;
-FWRGB,https://github.com/cran/FWRGB,https://CRAN.R-project.org/package=FWRGB,FALSE,add to CTV
-gpbstat,https://github.com/nandp1/gpbStat/,https://CRAN.R-project.org/package=gpbStat,FALSE,add to CTV
-heritability,https://github.com/cran/heritability,https://CRAN.R-project.org/package=heritability,FALSE,add to CTV
-inti,https://github.com/flavjack/inti,https://inkaverse.com/,FALSE,add to CTV;  https://CRAN.R-project.org/package=inti
-mvngGrAd,https://github.com/cran/mvngGrAd,https://CRAN.R-project.org/package=mvngGrAd,FALSE,add to CTV
-PGRdup,https://github.com/aravind-j/PGRdup,https://aravind-j.github.io/PGRdup/,FALSE,add to CTV; https://CRAN.R-project.org/package=PGRdup
-pliman,https://github.com/TiagoOlivoto/pliman,https://CRAN.R-project.org/package=pliman,FALSE,add to CTV
-BGGE,https://github.com/cran/BGGE,https://CRAN.R-project.org/package=BGGE,FALSE,add to CTV
-selection.index,https://github.com/zankrut20/selection.index,https://CRAN.R-project.org/package=selection.index,FALSE,add to CTV
-BMTME,https://github.com/frahik/BMTME,https://CRAN.R-project.org/package=BMTME,FALSE,add to CTV
-BWGS,https://github.com/byzheng/BWGS,https://CRAN.R-project.org/package=BWGS,FALSE,add to CTV
+QI,https://github.com/cran/QI,https://CRAN.R-project.org/package=QI,TRUE,
+smapr,https://github.com/ropensci/smapr,https://docs.ropensci.org/smapr/,TRUE,
+sorcering,https://github.com/cran/sorcering,https://CRAN.R-project.org/package=sorcering,TRUE,
+FWRGB,https://github.com/cran/FWRGB,https://CRAN.R-project.org/package=FWRGB,TRUE,
+gpbstat,https://github.com/nandp1/gpbStat/,https://CRAN.R-project.org/package=gpbStat,TRUE,
+heritability,https://github.com/cran/heritability,https://CRAN.R-project.org/package=heritability,TRUE,
+inti,https://github.com/flavjack/inti,https://inkaverse.com/,TRUE,largely in Spanish language!
+PGRdup,https://github.com/aravind-j/PGRdup,https://aravind-j.github.io/PGRdup/,TRUE,
+pliman,https://github.com/TiagoOlivoto/pliman,https://CRAN.R-project.org/package=pliman,TRUE,
+BGGE,https://github.com/cran/BGGE,https://CRAN.R-project.org/package=BGGE,TRUE,
+selection.index,https://github.com/zankrut20/selection.index,https://CRAN.R-project.org/package=selection.index,TRUE,
+BMTME,https://github.com/frahik/BMTME,https://CRAN.R-project.org/package=BMTME,TRUE,
+BWGS,https://github.com/byzheng/BWGS,https://CRAN.R-project.org/package=BWGS,TRUE,
 GSelection,https://github.com/cran/GSelection,https://CRAN.R-project.org/package=GSelection,FALSE,add to CTV
 GSMX,https://github.com/cran/GSMX,https://CRAN.R-project.org/package=GSMX,FALSE,add to CTV
 STGS,https://github.com/cran/STGS,https://CRAN.R-project.org/package=STGS,FALSE,add to CTV
@@ -170,3 +169,4 @@ spsh,https://github.com/cran/spsh,https://CRAN.R-project.org/package=spsh,FALSE,
 WCM,https://github.com/cran/WCM,https://CRAN.R-project.org/package=WCM,FALSE,add to CTV
 rfieldclimate,https://github.com/basf/rfieldclimate,https://CRAN.R-project.org/package=rfieldclimate,FALSE,add to CTV
 rarable,https://github.com/basf/rarable,,FALSE,
+bravo,https://github.com/dongjli/bravo/, https://CRAN.R-project.org/package=bravo,TRUE,
