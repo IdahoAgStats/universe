@@ -28,24 +28,12 @@
     "url": "https://github.com/jensharbers/agricolaeplotr"
   },
   {
-    "package": "agridat",
-    "url": "https://github.com/kwstat/agridat/"
-  },
-  {
-    "package": "agriTutorial",
-    "url": "https://github.com/myaseen208/agriTutorial"
-  },
-  {
     "package": "agromet",
     "url": "https://github.com/AgRoMeteorologiaINTA/agromet"
   },
   {
     "package": "AlphaSimR",
     "url": "https://github.com/gaynorr/AlphaSimR"
-  },
-  {
-    "package": "ALUES",
-    "url": "https://github.com/alstat/ALUES/"
   },
   {
     "package": "apsimx",
@@ -64,10 +52,6 @@
     "url": "https://github.com/briencj/asremlPlus"
   },
   {
-    "package": "bayesammi",
-    "url": "https://github.com/myaseen208/bayesammi"
-  },
-  {
     "package": "BGLR",
     "url": "https://github.com/gdlc/BGLR-R"
   },
@@ -76,8 +60,16 @@
     "url": "https://github.com/arsilva87/biotools"
   },
   {
+    "package": "bravo",
+    "url": "https://github.com/dongjli/bravo/"
+  },
+  {
     "package": "breedR",
     "url": "https://github.com/famuvie/breedR"
+  },
+  {
+    "package": "BWGS",
+    "url": "https://github.com/byzheng/BWGS"
   },
   {
     "package": "cdlTools",
@@ -144,6 +136,10 @@
     "url": "https://github.com/muuankarski/faobulk"
   },
   {
+    "package": "febr",
+    "url": "https://github.com/laboratorio-de-pedometria/febr-package/"
+  },
+  {
     "package": "FedData",
     "url": "https://github.com/ropensci/FedData"
   },
@@ -172,8 +168,8 @@
     "url": "https://github.com/agrdatasci/gosset"
   },
   {
-    "package": "grapesAgri1",
-    "url": "https://github.com/pratheesh3780/grapesAgri1"
+    "package": "gpbstat",
+    "url": "https://github.com/nandp1/gpbStat/"
   },
   {
     "package": "GWASpoly",
@@ -186,6 +182,10 @@
   {
     "package": "IBCF.MTME",
     "url": "https://github.com/frahik/IBCF.MTME"
+  },
+  {
+    "package": "inti",
+    "url": "https://github.com/flavjack/inti"
   },
   {
     "package": "landsepi",
@@ -201,7 +201,15 @@
   },
   {
     "package": "lme4qtl",
-    "url": "https://github.com/variani/lme4qtl"
+    "url": "https://github.com/variani/lme4qtl/pkg_src/lme4GS"
+  },
+  {
+    "package": "LW1949",
+    "url": "https://github.com/JVAdams/LW1949"
+  },
+  {
+    "package": "LWFBrook90R",
+    "url": "https://github.com/pschmidtwalter/LWFBrook90R"
   },
   {
     "package": "mappoly",
@@ -212,20 +220,20 @@
     "url": "https://github.com/jendelman/MapRtools"
   },
   {
+    "package": "mapsRinteractive",
+    "url": "https://github.com/soilmapper/mapsRinteractive"
+  },
+  {
     "package": "MegaLMM",
     "url": "https://github.com/deruncie/MegaLMM/"
   },
   {
-    "package": "meteor",
-    "url": "https://github.com/cropmodels/meteor"
-  },
-  {
-    "package": "metrica",
-    "url": "https://github.com/adriancorrendo/metrica/"
-  },
-  {
     "package": "MoBPS",
     "url": "https://github.com/tpook92/MoBPS/tree/master/pkg"
+  },
+  {
+    "package": "mpspline2",
+    "url": "https://github.com/obrl-soil/mpspline2"
   },
   {
     "package": "nlraa",
@@ -236,10 +244,6 @@
     "url": "https://github.com/AndreaRMICL/NutrienTrackeR"
   },
   {
-    "package": "onemap",
-    "url": "https://github.com/augusto-garcia/onemap"
-  },
-  {
     "package": "pedmod",
     "url": "https://github.com/boennecd/pedmod"
   },
@@ -248,8 +252,16 @@
     "url": "https://github.com/Laboratorio-de-Pedometria/pedometrics-package"
   },
   {
+    "package": "PGRdup",
+    "url": "https://github.com/aravind-j/PGRdup"
+  },
+  {
     "package": "phenorice",
     "url": "https://github.com/cropmodels/phenorice"
+  },
+  {
+    "package": "pliman",
+    "url": "https://github.com/TiagoOlivoto/pliman"
   },
   {
     "package": "polyBreedR",
@@ -276,10 +288,6 @@
     "url": "https://github.com/byzheng/rapsimng"
   },
   {
-    "package": "rarms",
-    "url": "https://github.com/cbw1243/rarms"
-  },
-  {
     "package": "Recocrop",
     "url": "https://github.com/cropmodels/Recocrop"
   },
@@ -288,12 +296,12 @@
     "url": "https://github.com/bradduthie/resevol"
   },
   {
-    "package": "rMVP",
-    "url": "https://github.com/xiaolei-lab/rMVP"
+    "package": "rfieldclimate",
+    "url": "https://github.com/basf/rfieldclimate"
   },
   {
-    "package": "rnassqs",
-    "url": "https://github.com/ropensci/rnassqs/"
+    "package": "rMVP",
+    "url": "https://github.com/xiaolei-lab/rMVP"
   },
   {
     "package": "Rquefts",
@@ -308,20 +316,24 @@
     "url": "https://github.com/cropmodels/Rwofost"
   },
   {
+    "package": "selection.index",
+    "url": "https://github.com/zankrut20/selection.index"
+  },
+  {
     "package": "sharpshootR",
     "url": "https://github.com/ncss-tech/sharpshootR"
+  },
+  {
+    "package": "simplace",
+    "url": "https://github.com/gk-crop/simplace_rpkg"
   },
   {
     "package": "simplePHENOTYPES",
     "url": "https://github.com/samuelbfernandes/simplePHENOTYPES"
   },
   {
-    "package": "SISINTAR",
-    "url": "https://github.com/INTA-Suelos/SISINTAR"
-  },
-  {
-    "package": "soilDB",
-    "url": "https://github.com/ncss-tech/soilDB/"
+    "package": "smapr",
+    "url": "https://github.com/ropensci/smapr"
   },
   {
     "package": "SoilTaxonomy",
@@ -330,6 +342,14 @@
   {
     "package": "soiltestcorr",
     "url": "https://github.com/adriancorrendo/soiltestcorr/"
+  },
+  {
+    "package": "SoilTexture",
+    "url": "https://github.com/julienmoeys/soiltexture/tree/master/pkg/soiltexture"
+  },
+  {
+    "package": "soilwater",
+    "url": "https://github.com/ecor/soilwater"
   },
   {
     "package": "sommer",
@@ -352,14 +372,6 @@
     "url": "https://github.com/Biometris/statgenGWAS"
   },
   {
-    "package": "statgenGxE",
-    "url": "https://github.com/Biometris/statgenGxE"
-  },
-  {
-    "package": "statgenHTP",
-    "url": "https://github.com/Biometris/statgenHTP"
-  },
-  {
     "package": "statgenIBD",
     "url": "https://github.com/Biometris/statgenIBD"
   },
@@ -374,6 +386,10 @@
   {
     "package": "tidyUSDA",
     "url": "https://github.com/bradlindblad/tidyUSDA/"
+  },
+  {
+    "package": "TSDFGS",
+    "url": "https://github.com/oumarkme/TSDFGS"
   },
   {
     "package": "usdampr",
