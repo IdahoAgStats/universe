@@ -1,9 +1,5 @@
 [
   {
-    "package": "acdcR",
-    "url": "https://github.com/ysd2004/acdcR"
-  },
-  {
     "package": "ag5Tools",
     "url": "https://github.com/agrdatasci/ag5Tools"
   },
@@ -28,12 +24,24 @@
     "url": "https://github.com/jensharbers/agricolaeplotr"
   },
   {
+    "package": "agridat",
+    "url": "https://github.com/kwstat/agridat/"
+  },
+  {
+    "package": "agriTutorial",
+    "url": "https://github.com/myaseen208/agriTutorial"
+  },
+  {
     "package": "agromet",
     "url": "https://github.com/AgRoMeteorologiaINTA/agromet"
   },
   {
     "package": "AlphaSimR",
     "url": "https://github.com/gaynorr/AlphaSimR"
+  },
+  {
+    "package": "ALUES",
+    "url": "https://github.com/alstat/ALUES/"
   },
   {
     "package": "apsimx",
@@ -44,12 +52,12 @@
     "url": "https://github.com/ncss-tech/aqp"
   },
   {
-    "package": "ascotraceR",
-    "url": "https://github.com/IhsanKhaliq/ascotraceR"
-  },
-  {
     "package": "asremlPlus",
     "url": "https://github.com/briencj/asremlPlus"
+  },
+  {
+    "package": "bayesammi",
+    "url": "https://github.com/myaseen208/bayesammi"
   },
   {
     "package": "BGLR",
@@ -60,16 +68,8 @@
     "url": "https://github.com/arsilva87/biotools"
   },
   {
-    "package": "bravo",
-    "url": "https://github.com/dongjli/bravo/"
-  },
-  {
     "package": "breedR",
     "url": "https://github.com/famuvie/breedR"
-  },
-  {
-    "package": "BWGS",
-    "url": "https://github.com/byzheng/BWGS"
   },
   {
     "package": "cdlTools",
@@ -108,12 +108,12 @@
     "url": "https://github.com/FilgueirasR/cropZoning"
   },
   {
-    "package": "desplot",
-    "url": "https://github.com/kwstat/desplot"
-  },
-  {
     "package": "diaQTL",
     "url": "https://github.com/jendelman/diaQTL"
+  },
+  {
+    "package": "DMMF",
+    "url": "https://github.com/kwanghun/DMMF"
   },
   {
     "package": "DSSAT",
@@ -124,20 +124,12 @@
     "url": "https://github.com/allogamous/EnvRtype"
   },
   {
-    "package": "epifitter",
-    "url": "https://github.com/AlvesKS/epifitter"
-  },
-  {
     "package": "epiphy",
     "url": "https://github.com/chgigot/epiphy"
   },
   {
     "package": "faobulk",
     "url": "https://github.com/muuankarski/faobulk"
-  },
-  {
-    "package": "febr",
-    "url": "https://github.com/laboratorio-de-pedometria/febr-package/"
   },
   {
     "package": "FedData",
@@ -176,16 +168,8 @@
     "url": "https://github.com/jendelman/GWASpoly"
   },
   {
-    "package": "hagis",
-    "url": "https://github.com/openplantpathology/hagis"
-  },
-  {
     "package": "IBCF.MTME",
     "url": "https://github.com/frahik/IBCF.MTME"
-  },
-  {
-    "package": "inti",
-    "url": "https://github.com/flavjack/inti"
   },
   {
     "package": "landsepi",
@@ -228,6 +212,14 @@
     "url": "https://github.com/deruncie/MegaLMM/"
   },
   {
+    "package": "meteor",
+    "url": "https://github.com/cropmodels/meteor"
+  },
+  {
+    "package": "metrica",
+    "url": "https://github.com/adriancorrendo/metrica/"
+  },
+  {
     "package": "MoBPS",
     "url": "https://github.com/tpook92/MoBPS/tree/master/pkg"
   },
@@ -244,16 +236,16 @@
     "url": "https://github.com/AndreaRMICL/NutrienTrackeR"
   },
   {
+    "package": "onemap",
+    "url": "https://github.com/augusto-garcia/onemap"
+  },
+  {
     "package": "pedmod",
     "url": "https://github.com/boennecd/pedmod"
   },
   {
     "package": "pedometrics",
     "url": "https://github.com/Laboratorio-de-Pedometria/pedometrics-package"
-  },
-  {
-    "package": "PGRdup",
-    "url": "https://github.com/aravind-j/PGRdup"
   },
   {
     "package": "phenorice",
@@ -270,10 +262,6 @@
   {
     "package": "poppr",
     "url": "https://github.com/grunwaldlab/poppr/"
-  },
-  {
-    "package": "qgg",
-    "url": "https://github.com/psoerensen/qgg"
   },
   {
     "package": "qtl",
@@ -300,8 +288,8 @@
     "url": "https://github.com/basf/rfieldclimate"
   },
   {
-    "package": "rMVP",
-    "url": "https://github.com/xiaolei-lab/rMVP"
+    "package": "rnassqs",
+    "url": "https://github.com/ropensci/rnassqs/"
   },
   {
     "package": "Rquefts",
@@ -332,8 +320,20 @@
     "url": "https://github.com/samuelbfernandes/simplePHENOTYPES"
   },
   {
+    "package": "SISINTAR",
+    "url": "https://github.com/INTA-Suelos/SISINTAR"
+  },
+  {
     "package": "smapr",
     "url": "https://github.com/ropensci/smapr"
+  },
+  {
+    "package": "soilDB",
+    "url": "https://github.com/ncss-tech/soilDB/"
+  },
+  {
+    "package": "soilR",
+    "url": "https://github.com/MPIBGC-TEE/SoilR-exp"
   },
   {
     "package": "SoilTaxonomy",
@@ -372,6 +372,10 @@
     "url": "https://github.com/Biometris/statgenGWAS"
   },
   {
+    "package": "statgenHTP",
+    "url": "https://github.com/Biometris/statgenHTP"
+  },
+  {
     "package": "statgenIBD",
     "url": "https://github.com/Biometris/statgenIBD"
   },
@@ -390,10 +394,6 @@
   {
     "package": "TSDFGS",
     "url": "https://github.com/oumarkme/TSDFGS"
-  },
-  {
-    "package": "usdampr",
-    "url": "https://github.com/cbw1243/usdampr"
   },
   {
     "package": "Xpolaris",
